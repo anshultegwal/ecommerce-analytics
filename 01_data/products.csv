@@ -1,0 +1,1501 @@
+product_id,product_name,category,sub_category,brand,unit_price_inr,cost_price_inr,stock_status
+20001,Tab Series 001,Electronics,Tablet,HomeEase,2864.0,1865.0,Low Stock
+20002,Pulse Series 002,Electronics,Smartwatch,UrbanCart,1249.0,815.0,In Stock
+20003,Summit Series 003,Sports,Outdoor,Apex,620.0,354.0,In Stock
+20004,Boundary Series 004,Sports,Cricket,FitMax,657.0,497.0,In Stock
+20005,Clear Series 005,Beauty,Skincare,HomeEase,1453.0,819.0,In Stock
+20006,One Essential 006,Electronics,Mobile,Apex,474.0,261.0,In Stock
+20007,Table Essential 007,Home & Kitchen,Decor,HomeEase,4317.0,2414.0,In Stock
+20008,Chronicles Essential 008,Books,Fiction,HomeEase,2649.0,1619.0,In Stock
+20009,Pad Essential 009,Electronics,Tablet,StyleHub,4392.0,3167.0,Low Stock
+20010,Essential Essential 010,Home & Kitchen,Furniture,StyleHub,4101.0,3094.0,In Stock
+20011,Slim Plus 011,Fashion,Jeans,StyleHub,1066.0,721.0,Low Stock
+20012,Balance Plus 012,Sports,Yoga,StyleHub,761.0,512.0,In Stock
+20013,Road Plus 013,Sports,Cycling,FitMax,235.0,170.0,In Stock
+20014,Shine Plus 014,Beauty,Haircare,HomeEase,1029.0,750.0,Low Stock
+20015,Essential Plus 015,Fashion,Accessories,TechPro,4220.0,3391.0,In Stock
+20016,Slim Pro 016,Fashion,Jeans,FitMax,782.0,622.0,In Stock
+20017,Slate Pro 017,Electronics,Tablet,StyleHub,1169.0,932.0,In Stock
+20018,Steel Pro 018,Home & Kitchen,Cookware,,934.0,750.0,In Stock
+20019,Urban Pro 019,Home & Kitchen,Furniture,Apex,1709.0,1391.0,In Stock
+20020,Time Pro 020,Electronics,Smartwatch,PrimeLine,3090.0,2214.0,Low Stock
+20021,Zen Prime 021,Sports,Yoga,UrbanCart,493.0,359.0,Low Stock
+20022,Classic Prime 022,Fashion,Accessories,TechPro,558.0,429.0,In Stock
+20023,Care Prime 023,Beauty,Haircare,UrbanCart,3520.0,2146.0,Out of Stock
+20024,Space Prime 024,Home & Kitchen,Storage,FitMax,2157.0,1420.0,In Stock
+20025,Color Prime 025,Beauty,Makeup,StyleHub,1132.0,933.0,In Stock
+20026,Tab Classic 026,Electronics,Tablet,UrbanCart,4063.0,2872.0,In Stock
+20027,Core Classic 027,Sports,Fitness,FitMax,552.0,312.0,Low Stock
+20028,Active Classic 028,Sports,Fitness,Nova,2454.0,1648.0,In Stock
+20029,Power Classic 029,Home & Kitchen,Appliances,FitMax,1281.0,766.0,Low Stock
+20030,Classic Classic 030,Home & Kitchen,Cookware,HomeEase,1987.0,1305.0,In Stock
+20031,Power Advance 031,Sports,Fitness,HomeEase,284.0,203.0,In Stock
+20032,Home Advance 032,Home & Kitchen,Appliances,PrimeLine,1131.0,793.0,In Stock
+20033,Classic Advance 033,Home & Kitchen,Furniture,Nova,2162.0,1507.0,Low Stock
+20034,Sport Advance 034,Fashion,Shoes,FitMax,1285.0,714.0,Low Stock
+20035,World Advance 035,Books,Non-Fiction,Nova,3029.0,2070.0,In Stock
+20036,Flare Elite 036,Fashion,Dresses,PrimeLine,2964.0,1656.0,In Stock
+20037,Modern Elite 037,Home & Kitchen,Furniture,Apex,718.0,482.0,In Stock
+20038,Essence Elite 038,Beauty,Fragrance,FitMax,2288.0,1703.0,Low Stock
+20039,Classic Elite 039,Fashion,Shirts,TechPro,703.0,413.0,In Stock
+20040,Clear Elite 040,Beauty,Skincare,TechPro,1387.0,1144.0,In Stock
+20041,Oxford Select 041,Fashion,Shirts,UrbanCart,2052.0,1517.0,In Stock
+20042,Mist Select 042,Beauty,Fragrance,FitMax,778.0,479.0,In Stock
+20043,Street Select 043,Fashion,Shoes,Apex,2234.0,1493.0,In Stock
+20044,Classic Select 044,Fashion,Shirts,HomeEase,964.0,558.0,Out of Stock
+20045,Classic Select 045,Fashion,Shoes,StyleHub,918.0,511.0,In Stock
+20046,Flare Smart 046,Fashion,Dresses,UrbanCart,2120.0,1748.0,In Stock
+20047,Ideas Smart 047,Books,Non-Fiction,HomeEase,778.0,585.0,In Stock
+20048,Classic Smart 048,Home & Kitchen,Furniture,UrbanCart,753.0,590.0,In Stock
+20049,Strength Smart 049,Sports,Fitness,StyleHub,2635.0,1941.0,In Stock
+20050,Flow Smart 050,Sports,Yoga,StyleHub,1437.0,1181.0,In Stock
+20051,Glow Max 051,Beauty,Skincare,UrbanCart,521.0,427.0,In Stock
+20052,Kitchen Max 052,Home & Kitchen,Cookware,Apex,2336.0,1326.0,In Stock
+20053,Casual Max 053,Fashion,Dresses,Nova,1028.0,624.0,In Stock
+20054,Magic Max 054,Books,Children,HomeEase,538.0,360.0,In Stock
+20055,Smart Max 055,Home & Kitchen,Storage,StyleHub,262.0,171.0,Low Stock
+20056,Aura Ultra 056,Beauty,Fragrance,Apex,2410.0,1705.0,In Stock
+20057,PowerPlay Ultra 057,Sports,Cricket,FitMax,766.0,483.0,In Stock
+20058,Matte Ultra 058,Beauty,Makeup,FitMax,597.0,471.0,Low Stock
+20059,Note Ultra 059,Electronics,Laptop,PrimeLine,2030.0,1121.0,Low Stock
+20060,Color Ultra 060,Beauty,Makeup,Apex,2261.0,1780.0,In Stock
+20061,Wall Lite 061,Home & Kitchen,Decor,HomeEase,803.0,536.0,In Stock
+20062,Learn Lite 062,Books,Academic,TechPro,2424.0,1337.0,In Stock
+20063,Formal Lite 063,Fashion,Shirts,FitMax,5093.0,4095.0,In Stock
+20064,Comfort Lite 064,Fashion,Jeans,TechPro,3214.0,2198.0,In Stock
+20065,World Lite 065,Books,Non-Fiction,Nova,2905.0,2229.0,In Stock
+20066,Slim Premium 066,Fashion,Jeans,Apex,1643.0,1337.0,In Stock
+20067,Home Premium 067,Home & Kitchen,Appliances,PrimeLine,1004.0,563.0,In Stock
+20068,Exam Premium 068,Books,Academic,PrimeLine,1292.0,812.0,In Stock
+20069,Bloom Premium 069,Beauty,Fragrance,UrbanCart,1784.0,1045.0,Low Stock
+20070,Scent Premium 070,Beauty,Fragrance,StyleHub,591.0,342.0,In Stock
+20071,Tab Everyday 071,Electronics,Tablet,UrbanCart,812.0,677.0,In Stock
+20072,Elegant Everyday 072,Fashion,Dresses,HomeEase,530.0,420.0,In Stock
+20073,Street Everyday 073,Fashion,Shoes,UrbanCart,1561.0,1029.0,In Stock
+20074,Granite Everyday 074,Home & Kitchen,Cookware,StyleHub,1414.0,1069.0,In Stock
+20075,Scent Everyday 075,Beauty,Fragrance,StyleHub,876.0,723.0,Low Stock
+20076,Wall Series 076,Home & Kitchen,Decor,FitMax,2283.0,1407.0,Out of Stock
+20077,Casual Series 077,Fashion,Shirts,FitMax,679.0,376.0,In Stock
+20078,Summit Series 078,Sports,Outdoor,HomeEase,855.0,682.0,Low Stock
+20079,Calm Series 079,Sports,Yoga,TechPro,2225.0,1706.0,In Stock
+20080,Classic Series 080,Home & Kitchen,Cookware,TechPro,2450.0,1465.0,In Stock
+20081,Chef Essential 081,Home & Kitchen,Cookware,Nova,799.0,557.0,In Stock
+20082,Slate Essential 082,Electronics,Tablet,StyleHub,1557.0,931.0,In Stock
+20083,Formal Essential 083,Fashion,Shirts,StyleHub,807.0,590.0,In Stock
+20084,Note Essential 084,Electronics,Laptop,TechPro,1178.0,877.0,In Stock
+20085,Note Essential 085,Electronics,Tablet,FitMax,1471.0,931.0,Low Stock
+20086,Mystery Plus 086,Books,Fiction,PrimeLine,1928.0,1512.0,Low Stock
+20087,Wonder Plus 087,Books,Children,Nova,1647.0,1140.0,Low Stock
+20088,Matte Plus 088,Beauty,Makeup,FitMax,1600.0,1219.0,In Stock
+20089,Boundary Plus 089,Sports,Cricket,TechPro,664.0,493.0,Out of Stock
+20090,Essential Plus 090,Fashion,Accessories,StyleHub,1724.0,1181.0,Low Stock
+20091,Glow Pro 091,Beauty,Skincare,Apex,1916.0,1222.0,In Stock
+20092,Stories Pro 092,Books,Fiction,PrimeLine,2096.0,1281.0,In Stock
+20093,Neo Pro 093,Electronics,Mobile,HomeEase,839.0,649.0,Low Stock
+20094,Comfort Pro 094,Fashion,Jeans,Apex,2429.0,1804.0,In Stock
+20095,Note Pro 095,Electronics,Tablet,StyleHub,569.0,361.0,In Stock
+20096,Power Prime 096,Sports,Fitness,TechPro,1012.0,850.0,Out of Stock
+20097,PowerPlay Prime 097,Sports,Cricket,Apex,1120.0,888.0,In Stock
+20098,Champion Prime 098,Sports,Cricket,HomeEase,590.0,347.0,In Stock
+20099,Radiance Prime 099,Beauty,Skincare,StyleHub,1109.0,664.0,In Stock
+20100,Classic Prime 100,Fashion,Shoes,UrbanCart,1547.0,1103.0,In Stock
+20101,Book Classic 101,Electronics,Laptop,TechPro,409.0,238.0,In Stock
+20102,Core Classic 102,Sports,Fitness,HomeEase,1036.0,870.0,In Stock
+20103,Exam Classic 103,Books,Academic,Apex,430.0,319.0,In Stock
+20104,Magic Classic 104,Books,Children,TechPro,5049.0,2877.0,In Stock
+20105,Classic Classic 105,Fashion,Jeans,TechPro,1538.0,1051.0,In Stock
+20106,Stack Advance 106,Home & Kitchen,Storage,UrbanCart,1454.0,897.0,In Stock
+20107,Glow Advance 107,Beauty,Makeup,UrbanCart,1558.0,1086.0,In Stock
+20108,View Advance 108,Electronics,Tablet,HomeEase,1984.0,1238.0,In Stock
+20109,Pad Advance 109,Electronics,Tablet,FitMax,2530.0,2023.0,In Stock
+20110,Velocity Advance 110,Sports,Cycling,PrimeLine,485.0,372.0,In Stock
+20111,Little Elite 111,Books,Children,Apex,3139.0,2580.0,In Stock
+20112,Classic Elite 112,Fashion,Accessories,FitMax,3010.0,1834.0,Low Stock
+20113,Essence Elite 113,Beauty,Fragrance,Apex,1283.0,854.0,In Stock
+20114,Luxe Elite 114,Beauty,Makeup,Nova,1240.0,982.0,In Stock
+20115,Wave Elite 115,Electronics,Headphones,UrbanCart,178.0,118.0,In Stock
+20116,Comfort Select 116,Home & Kitchen,Furniture,FitMax,597.0,396.0,In Stock
+20117,Home Select 117,Home & Kitchen,Appliances,FitMax,1877.0,1588.0,In Stock
+20118,Fun Select 118,Books,Children,UrbanCart,2923.0,2284.0,Out of Stock
+20119,Grace Select 119,Fashion,Dresses,TechPro,2151.0,1739.0,In Stock
+20120,Match Select 120,Sports,Cricket,StyleHub,1275.0,857.0,In Stock
+20121,Chef Smart 121,Home & Kitchen,Cookware,HomeEase,4684.0,3400.0,In Stock
+20122,Ideas Smart 122,Books,Non-Fiction,FitMax,2574.0,1764.0,In Stock
+20123,Exam Smart 123,Books,Academic,Nova,1037.0,710.0,In Stock
+20124,Sport Smart 124,Fashion,Shoes,Apex,5532.0,3255.0,In Stock
+20125,Easy Smart 125,Home & Kitchen,Appliances,Nova,657.0,527.0,In Stock
+20126,Insights Max 126,Books,Non-Fiction,StyleHub,515.0,344.0,In Stock
+20127,Core Max 127,Sports,Fitness,UrbanCart,1019.0,738.0,Low Stock
+20128,Care Max 128,Beauty,Haircare,PrimeLine,818.0,660.0,In Stock
+20129,Power Max 129,Home & Kitchen,Appliances,TechPro,1057.0,827.0,In Stock
+20130,Scent Max 130,Beauty,Fragrance,TechPro,2250.0,1371.0,In Stock
+20131,Oxford Ultra 131,Fashion,Shirts,Nova,1310.0,964.0,In Stock
+20132,PowerPlay Ultra 132,Sports,Cricket,StyleHub,1332.0,931.0,In Stock
+20133,Road Ultra 133,Sports,Cycling,PrimeLine,1392.0,874.0,In Stock
+20134,Sport Ultra 134,Fashion,Shoes,StyleHub,298.0,168.0,In Stock
+20135,Work Ultra 135,Electronics,Laptop,FitMax,500.0,369.0,Low Stock
+20136,Glow Lite 136,Beauty,Skincare,HomeEase,1043.0,818.0,In Stock
+20137,Learn Lite 137,Books,Academic,HomeEase,774.0,644.0,In Stock
+20138,Home Lite 138,Home & Kitchen,Decor,StyleHub,1152.0,756.0,In Stock
+20139,Knowledge Lite 139,Books,Non-Fiction,UrbanCart,3337.0,2235.0,In Stock
+20140,Classic Lite 140,Fashion,Jeans,UrbanCart,1276.0,764.0,In Stock
+20141,Zen Premium 141,Sports,Yoga,HomeEase,567.0,479.0,In Stock
+20142,PowerPlay Premium 142,Sports,Cricket,Apex,800.0,644.0,In Stock
+20143,Classic Premium 143,Home & Kitchen,Furniture,FitMax,4072.0,3409.0,In Stock
+20144,Track Premium 144,Electronics,Smartwatch,Nova,3627.0,2534.0,In Stock
+20145,World Premium 145,Books,Non-Fiction,StyleHub,1973.0,1209.0,In Stock
+20146,Ride Everyday 146,Sports,Cycling,UrbanCart,485.0,350.0,In Stock
+20147,Smooth Everyday 147,Beauty,Haircare,Nova,1635.0,1082.0,Low Stock
+20148,Kitchen Everyday 148,Home & Kitchen,Appliances,TechPro,1719.0,1125.0,Out of Stock
+20149,Note Everyday 149,Electronics,Laptop,UrbanCart,1362.0,783.0,In Stock
+20150,Smart Everyday 150,Home & Kitchen,Storage,UrbanCart,925.0,529.0,In Stock
+20151,Silk Series 151,Beauty,Haircare,PrimeLine,1058.0,702.0,In Stock
+20152,Explorer Series 152,Sports,Outdoor,TechPro,884.0,732.0,In Stock
+20153,Organize Series 153,Home & Kitchen,Storage,Apex,636.0,488.0,In Stock
+20154,Accent Series 154,Home & Kitchen,Decor,Nova,3255.0,2533.0,Low Stock
+20155,Classic Series 155,Home & Kitchen,Cookware,PrimeLine,2377.0,1474.0,In Stock
+20156,Study Essential 156,Books,Academic,UrbanCart,1113.0,857.0,In Stock
+20157,Glow Essential 157,Beauty,Makeup,TechPro,1684.0,1131.0,In Stock
+20158,Exam Essential 158,Books,Academic,HomeEase,1726.0,980.0,In Stock
+20159,Note Essential 159,Electronics,Laptop,TechPro,6142.0,4106.0,In Stock
+20160,Comfort Essential 160,Fashion,Shirts,Nova,2362.0,1392.0,In Stock
+20161,Slim Plus 161,Fashion,Jeans,StyleHub,2304.0,1857.0,In Stock
+20162,Elegant Plus 162,Fashion,Dresses,HomeEase,1373.0,1101.0,In Stock
+20163,Street Plus 163,Fashion,Shoes,Nova,1010.0,643.0,In Stock
+20164,Note Plus 164,Electronics,Laptop,FitMax,3290.0,2413.0,In Stock
+20165,Wave Plus 165,Electronics,Headphones,StyleHub,2047.0,1349.0,Low Stock
+20166,Striker Pro 166,Sports,Cricket,TechPro,781.0,466.0,In Stock
+20167,Regular Pro 167,Fashion,Jeans,FitMax,1799.0,1340.0,In Stock
+20168,Fit Pro 168,Electronics,Smartwatch,StyleHub,2308.0,1796.0,Low Stock
+20169,Everyday Pro 169,Fashion,Accessories,StyleHub,343.0,268.0,In Stock
+20170,Happy Pro 170,Books,Children,StyleHub,735.0,437.0,In Stock
+20171,Oxford Prime 171,Fashion,Shirts,Apex,1696.0,1194.0,Low Stock
+20172,Ideas Prime 172,Books,Non-Fiction,Nova,383.0,213.0,In Stock
+20173,Neo Prime 173,Electronics,Mobile,HomeEase,425.0,245.0,Low Stock
+20174,Pad Prime 174,Electronics,Tablet,HomeEase,1123.0,645.0,In Stock
+20175,Color Prime 175,Beauty,Makeup,TechPro,1844.0,1046.0,In Stock
+20176,Trail Classic 176,Sports,Outdoor,Apex,1900.0,1235.0,In Stock
+20177,Wonder Classic 177,Books,Children,StyleHub,3746.0,2462.0,In Stock
+20178,Straight Classic 178,Fashion,Jeans,PrimeLine,1413.0,1073.0,In Stock
+20179,Granite Classic 179,Home & Kitchen,Cookware,HomeEase,1051.0,682.0,In Stock
+20180,Clear Classic 180,Beauty,Skincare,TechPro,573.0,339.0,In Stock
+20181,Wall Advance 181,Home & Kitchen,Decor,StyleHub,1043.0,870.0,In Stock
+20182,Modern Advance 182,Home & Kitchen,Furniture,HomeEase,2122.0,1724.0,In Stock
+20183,Tune Advance 183,Electronics,Headphones,HomeEase,2185.0,1283.0,In Stock
+20184,Cycle Advance 184,Sports,Cycling,FitMax,1591.0,1048.0,In Stock
+20185,Repair Advance 185,Beauty,Haircare,Nova,1911.0,1147.0,In Stock
+20186,One Elite 186,Electronics,Mobile,HomeEase,3071.0,2573.0,In Stock
+20187,Hydra Elite 187,Beauty,Skincare,TechPro,1407.0,924.0,In Stock
+20188,Fun Elite 188,Books,Children,FitMax,3258.0,1888.0,In Stock
+20189,Boundary Elite 189,Sports,Cricket,Apex,835.0,641.0,Low Stock
+20190,Classic Elite 190,Fashion,Shoes,TechPro,1277.0,975.0,Low Stock
+20191,One Select 191,Electronics,Mobile,UrbanCart,980.0,610.0,In Stock
+20192,Glow Select 192,Beauty,Makeup,Nova,2242.0,1449.0,In Stock
+20193,Pure Select 193,Beauty,Skincare,TechPro,693.0,467.0,Low Stock
+20194,Tales Select 194,Books,Fiction,Nova,1087.0,685.0,In Stock
+20195,Color Select 195,Beauty,Makeup,Nova,400.0,255.0,In Stock
+20196,Zen Smart 196,Sports,Yoga,TechPro,1971.0,1558.0,In Stock
+20197,Glow Smart 197,Beauty,Makeup,StyleHub,3012.0,2336.0,In Stock
+20198,Essence Smart 198,Beauty,Fragrance,HomeEase,2421.0,1835.0,Low Stock
+20199,Urban Smart 199,Home & Kitchen,Furniture,Nova,2272.0,1718.0,In Stock
+20200,Classic Smart 200,Fashion,Jeans,Nova,2311.0,1633.0,In Stock
+20201,Comfort Max 201,Home & Kitchen,Furniture,PrimeLine,2111.0,1383.0,In Stock
+20202,Walk Max 202,Fashion,Shoes,PrimeLine,1997.0,1530.0,In Stock
+20203,Chronicles Max 203,Books,Fiction,Nova,2082.0,1218.0,In Stock
+20204,Grace Max 204,Fashion,Dresses,UrbanCart,875.0,518.0,Low Stock
+20205,Everyday Max 205,Fashion,Dresses,Apex,1176.0,691.0,In Stock
+20206,Study Ultra 206,Books,Academic,TechPro,1402.0,1079.0,In Stock
+20207,Max Ultra 207,Electronics,Mobile,HomeEase,1077.0,783.0,In Stock
+20208,Steel Ultra 208,Home & Kitchen,Cookware,PrimeLine,484.0,332.0,In Stock
+20209,Grace Ultra 209,Fashion,Dresses,TechPro,600.0,416.0,In Stock
+20210,Everyday Ultra 210,Fashion,Dresses,Apex,1555.0,1241.0,In Stock
+20211,Oxford Lite 211,Fashion,Shirts,FitMax,2413.0,1415.0,In Stock
+20212,Balance Lite 212,Sports,Yoga,Nova,1348.0,896.0,Low Stock
+20213,Style Lite 213,Fashion,Accessories,TechPro,8080.0,6287.0,In Stock
+20214,Grace Lite 214,Fashion,Dresses,UrbanCart,737.0,551.0,In Stock
+20215,Classic Lite 215,Fashion,Shoes,PrimeLine,1789.0,1217.0,Low Stock
+20216,Insights Premium 216,Books,Non-Fiction,TechPro,3100.0,1914.0,Low Stock
+20217,Wonder Premium 217,Books,Children,HomeEase,2678.0,2233.0,In Stock
+20218,Kitchen Premium 218,Home & Kitchen,Appliances,StyleHub,2050.0,1378.0,In Stock
+20219,Track Premium 219,Electronics,Smartwatch,TechPro,2686.0,2185.0,Low Stock
+20220,Note Premium 220,Electronics,Tablet,Apex,1389.0,1088.0,In Stock
+20221,Slim Everyday 221,Fashion,Jeans,TechPro,3948.0,3192.0,In Stock
+20222,Glow Everyday 222,Beauty,Makeup,TechPro,3084.0,1712.0,In Stock
+20223,Tune Everyday 223,Electronics,Headphones,FitMax,770.0,534.0,In Stock
+20224,Luxe Everyday 224,Beauty,Makeup,TechPro,1651.0,1037.0,In Stock
+20225,Comfort Everyday 225,Fashion,Shirts,FitMax,490.0,310.0,Low Stock
+20226,Little Series 226,Books,Children,HomeEase,3602.0,2273.0,In Stock
+20227,Glow Series 227,Beauty,Makeup,TechPro,1550.0,1034.0,Out of Stock
+20228,Street Series 228,Fashion,Shoes,UrbanCart,3219.0,2167.0,In Stock
+20229,Luxe Series 229,Beauty,Makeup,UrbanCart,1248.0,924.0,In Stock
+20230,Work Series 230,Electronics,Laptop,Nova,401.0,257.0,In Stock
+20231,Urban Essential 231,Fashion,Accessories,TechPro,7437.0,4699.0,In Stock
+20232,Store Essential 232,Home & Kitchen,Storage,StyleHub,1459.0,960.0,In Stock
+20233,Classic Essential 233,Home & Kitchen,Furniture,Nova,699.0,528.0,In Stock
+20234,Grace Essential 234,Fashion,Dresses,StyleHub,2821.0,1552.0,In Stock
+20235,Clear Essential 235,Beauty,Skincare,FitMax,5031.0,3894.0,In Stock
+20236,Aura Plus 236,Beauty,Fragrance,PrimeLine,1174.0,765.0,In Stock
+20237,Learn Plus 237,Books,Academic,UrbanCart,1256.0,908.0,In Stock
+20238,Organize Plus 238,Home & Kitchen,Storage,TechPro,1564.0,1218.0,In Stock
+20239,Calm Plus 239,Sports,Yoga,FitMax,651.0,458.0,In Stock
+20240,Repair Plus 240,Beauty,Haircare,Nova,855.0,636.0,In Stock
+20241,Study Pro 241,Books,Academic,PrimeLine,4265.0,3523.0,Low Stock
+20242,Ideas Pro 242,Books,Non-Fiction,Nova,1229.0,687.0,Low Stock
+20243,Flex Pro 243,Sports,Yoga,HomeEase,777.0,509.0,In Stock
+20244,Classic Pro 244,Fashion,Shirts,Nova,998.0,826.0,In Stock
+20245,Clear Pro 245,Beauty,Skincare,UrbanCart,2690.0,2155.0,In Stock
+20246,Aura Prime 246,Beauty,Fragrance,HomeEase,371.0,273.0,In Stock
+20247,Balance Prime 247,Sports,Yoga,FitMax,1581.0,978.0,Low Stock
+20248,Steel Prime 248,Home & Kitchen,Cookware,Apex,6637.0,4308.0,In Stock
+20249,Tales Prime 249,Books,Fiction,TechPro,5015.0,4049.0,Low Stock
+20250,Match Prime 250,Sports,Cricket,Apex,1944.0,1476.0,In Stock
+20251,One Classic 001,Electronics,Mobile,TechPro,3152.0,2004.0,Out of Stock
+20252,Home Classic 002,Home & Kitchen,Appliances,Nova,3132.0,1847.0,In Stock
+20253,Classic Classic 003,Home & Kitchen,Furniture,FitMax,1234.0,968.0,In Stock
+20254,Radiance Classic 004,Beauty,Skincare,Nova,2443.0,1766.0,Low Stock
+20255,Essential Classic 005,Home & Kitchen,Furniture,TechPro,4284.0,3594.0,In Stock
+20256,Comfort Advance 006,Home & Kitchen,Furniture,PrimeLine,589.0,396.0,In Stock
+20257,Kitchen Advance 007,Home & Kitchen,Cookware,Apex,1949.0,1276.0,In Stock
+20258,Fit Advance 008,Electronics,Smartwatch,TechPro,1694.0,1079.0,Low Stock
+20259,Sport Advance 009,Fashion,Shoes,Apex,1432.0,995.0,Low Stock
+20260,Classic Advance 010,Home & Kitchen,Cookware,TechPro,1352.0,874.0,In Stock
+20261,Glow Elite 011,Beauty,Skincare,HomeEase,1557.0,891.0,In Stock
+20262,Table Elite 012,Home & Kitchen,Decor,PrimeLine,1644.0,1058.0,In Stock
+20263,Steel Elite 013,Home & Kitchen,Cookware,UrbanCart,2771.0,1706.0,In Stock
+20264,Magic Elite 014,Books,Children,PrimeLine,1826.0,1451.0,In Stock
+20265,Train Elite 015,Sports,Fitness,StyleHub,1193.0,740.0,In Stock
+20266,Chef Select 016,Home & Kitchen,Cookware,FitMax,776.0,534.0,In Stock
+20267,Sound Select 017,Electronics,Headphones,Nova,985.0,741.0,In Stock
+20268,Fun Select 018,Books,Children,UrbanCart,1587.0,944.0,In Stock
+20269,Strength Select 019,Sports,Fitness,Nova,846.0,600.0,In Stock
+20270,Classic Select 020,Fashion,Shoes,Apex,2477.0,1992.0,In Stock
+20271,Zen Smart 021,Sports,Yoga,FitMax,1771.0,1284.0,In Stock
+20272,Kitchen Smart 022,Home & Kitchen,Cookware,FitMax,2817.0,1957.0,In Stock
+20273,Formal Smart 023,Fashion,Shirts,PrimeLine,884.0,709.0,Low Stock
+20274,Sport Smart 024,Fashion,Shoes,HomeEase,780.0,651.0,In Stock
+20275,Velocity Smart 025,Sports,Cycling,UrbanCart,2803.0,2232.0,Low Stock
+20276,Wall Max 026,Home & Kitchen,Decor,PrimeLine,1457.0,980.0,Low Stock
+20277,Elegant Max 027,Fashion,Dresses,FitMax,1174.0,861.0,Low Stock
+20278,Exam Max 028,Books,Academic,UrbanCart,2109.0,1493.0,In Stock
+20279,Granite Max 029,Home & Kitchen,Cookware,UrbanCart,2059.0,1320.0,In Stock
+20280,Work Max 030,Electronics,Laptop,Apex,592.0,403.0,In Stock
+20281,Ride Ultra 031,Sports,Cycling,Apex,3295.0,2632.0,In Stock
+20282,Learn Ultra 032,Books,Academic,Nova,1026.0,657.0,In Stock
+20283,Street Ultra 033,Fashion,Shoes,FitMax,4044.0,3303.0,In Stock
+20284,Track Ultra 034,Electronics,Smartwatch,FitMax,563.0,477.0,In Stock
+20285,Color Ultra 035,Beauty,Makeup,PrimeLine,1646.0,1057.0,In Stock
+20286,Stack Lite 036,Home & Kitchen,Storage,TechPro,1187.0,697.0,Low Stock
+20287,Mist Lite 037,Beauty,Fragrance,Apex,371.0,311.0,In Stock
+20288,Tune Lite 038,Electronics,Headphones,Nova,2055.0,1236.0,In Stock
+20289,Strength Lite 039,Sports,Fitness,TechPro,384.0,300.0,Out of Stock
+20290,Velocity Lite 040,Sports,Cycling,Apex,1108.0,622.0,In Stock
+20291,Glow Premium 041,Beauty,Skincare,FitMax,2746.0,1704.0,In Stock
+20292,Glow Premium 042,Beauty,Makeup,UrbanCart,949.0,596.0,Low Stock
+20293,Organize Premium 043,Home & Kitchen,Storage,HomeEase,744.0,476.0,Out of Stock
+20294,Tales Premium 044,Books,Fiction,UrbanCart,2253.0,1861.0,In Stock
+20295,Smart Premium 045,Home & Kitchen,Storage,Apex,1139.0,686.0,In Stock
+20296,Urban Everyday 046,Fashion,Accessories,TechPro,1029.0,620.0,In Stock
+20297,Learn Everyday 047,Books,Academic,Apex,3068.0,2324.0,Low Stock
+20298,Air Everyday 048,Electronics,Laptop,PrimeLine,627.0,524.0,Low Stock
+20299,Note Everyday 049,Electronics,Laptop,UrbanCart,994.0,663.0,In Stock
+20300,Flow Everyday 050,Sports,Yoga,StyleHub,2352.0,1839.0,Low Stock
+20301,Oxford Series 051,Fashion,Shirts,TechPro,601.0,336.0,In Stock
+20302,Glow Series 052,Beauty,Makeup,HomeEase,4247.0,3386.0,In Stock
+20303,Pure Series 053,Beauty,Skincare,TechPro,1163.0,892.0,In Stock
+20304,Adventure Series 054,Sports,Outdoor,StyleHub,2365.0,1937.0,In Stock
+20305,Color Series 055,Beauty,Makeup,PrimeLine,2362.0,1751.0,Low Stock
+20306,Oxford Essential 056,Fashion,Shirts,FitMax,1213.0,1010.0,In Stock
+20307,Mist Essential 057,Beauty,Fragrance,StyleHub,981.0,654.0,In Stock
+20308,Flex Essential 058,Sports,Yoga,StyleHub,1303.0,1003.0,In Stock
+20309,Classic Essential 059,Fashion,Shirts,HomeEase,2129.0,1634.0,Low Stock
+20310,Living Essential 060,Home & Kitchen,Decor,StyleHub,705.0,445.0,In Stock
+20311,Flare Plus 061,Fashion,Dresses,HomeEase,613.0,506.0,Low Stock
+20312,Wonder Plus 062,Books,Children,UrbanCart,3515.0,2755.0,In Stock
+20313,Fit Plus 063,Electronics,Smartwatch,Apex,831.0,673.0,Low Stock
+20314,Space Plus 064,Home & Kitchen,Storage,Apex,1686.0,1111.0,In Stock
+20315,World Plus 065,Books,Non-Fiction,TechPro,1174.0,942.0,In Stock
+20316,Trail Pro 066,Sports,Outdoor,Apex,1209.0,779.0,Low Stock
+20317,Pro Pro 067,Electronics,Laptop,Apex,3394.0,2849.0,In Stock
+20318,Classic Pro 068,Home & Kitchen,Furniture,HomeEase,1267.0,706.0,Low Stock
+20319,Adventure Pro 069,Sports,Outdoor,UrbanCart,1062.0,781.0,In Stock
+20320,Flow Pro 070,Sports,Yoga,HomeEase,1124.0,656.0,In Stock
+20321,Striker Prime 071,Sports,Cricket,StyleHub,966.0,740.0,Low Stock
+20322,Ideas Prime 072,Books,Non-Fiction,Nova,866.0,571.0,Low Stock
+20323,Matte Prime 073,Beauty,Makeup,HomeEase,968.0,785.0,In Stock
+20324,Scholar Prime 074,Books,Academic,FitMax,3948.0,3205.0,In Stock
+20325,Scent Prime 075,Beauty,Fragrance,Apex,2127.0,1405.0,Low Stock
+20326,Runner Classic 076,Fashion,Shoes,FitMax,1070.0,849.0,In Stock
+20327,Hydra Classic 077,Beauty,Skincare,TechPro,2535.0,1912.0,Low Stock
+20328,Formal Classic 078,Fashion,Shirts,HomeEase,477.0,323.0,In Stock
+20329,Radiance Classic 079,Beauty,Skincare,Nova,3275.0,2138.0,In Stock
+20330,Guide Classic 080,Books,Academic,PrimeLine,3108.0,1905.0,In Stock
+20331,Little Advance 081,Books,Children,UrbanCart,5731.0,3261.0,In Stock
+20332,Glow Advance 082,Beauty,Makeup,Apex,2585.0,1823.0,In Stock
+20333,View Advance 083,Electronics,Tablet,FitMax,1780.0,1267.0,In Stock
+20334,Luxe Advance 084,Beauty,Makeup,TechPro,3100.0,2118.0,Out of Stock
+20335,Living Advance 085,Home & Kitchen,Decor,StyleHub,892.0,745.0,In Stock
+20336,Comfort Elite 086,Home & Kitchen,Furniture,Apex,1036.0,574.0,Out of Stock
+20337,Ideas Elite 087,Books,Non-Fiction,HomeEase,1285.0,1035.0,In Stock
+20338,Style Elite 088,Fashion,Accessories,TechPro,3261.0,2577.0,In Stock
+20339,Calm Elite 089,Sports,Yoga,HomeEase,768.0,597.0,In Stock
+20340,Classic Elite 090,Fashion,Jeans,UrbanCart,717.0,507.0,In Stock
+20341,Aura Select 091,Beauty,Fragrance,HomeEase,1562.0,948.0,In Stock
+20342,Mist Select 092,Beauty,Fragrance,Apex,2135.0,1727.0,In Stock
+20343,Journey Select 093,Books,Non-Fiction,FitMax,848.0,656.0,In Stock
+20344,Space Select 094,Home & Kitchen,Storage,PrimeLine,2071.0,1656.0,In Stock
+20345,Repair Select 095,Beauty,Haircare,PrimeLine,3260.0,2024.0,In Stock
+20346,Slim Smart 096,Fashion,Jeans,TechPro,2923.0,2094.0,In Stock
+20347,Classic Smart 097,Fashion,Accessories,Nova,1685.0,1137.0,In Stock
+20348,Exam Smart 098,Books,Academic,UrbanCart,1263.0,937.0,In Stock
+20349,Prime Smart 099,Electronics,Mobile,Apex,4139.0,3211.0,In Stock
+20350,Color Smart 100,Beauty,Makeup,StyleHub,1353.0,815.0,Low Stock
+20351,Flare Max 101,Fashion,Dresses,PrimeLine,2468.0,1486.0,Low Stock
+20352,Learn Max 102,Books,Academic,Nova,4783.0,2693.0,In Stock
+20353,Classic Max 103,Home & Kitchen,Furniture,Nova,2305.0,1376.0,In Stock
+20354,Space Max 104,Home & Kitchen,Storage,StyleHub,701.0,436.0,Low Stock
+20355,Note Max 105,Electronics,Tablet,Apex,599.0,342.0,Low Stock
+20356,Oxford Ultra 106,Fashion,Shirts,Nova,1104.0,725.0,In Stock
+20357,Pulse Ultra 107,Electronics,Smartwatch,Apex,2124.0,1598.0,In Stock
+20358,Essence Ultra 108,Beauty,Fragrance,Apex,1788.0,1409.0,In Stock
+20359,Power Ultra 109,Home & Kitchen,Appliances,Nova,5623.0,3676.0,Out of Stock
+20360,Classic Ultra 110,Fashion,Shoes,StyleHub,1777.0,1022.0,In Stock
+20361,Glow Lite 111,Beauty,Skincare,Nova,1083.0,842.0,In Stock
+20362,Explorer Lite 112,Sports,Outdoor,HomeEase,641.0,428.0,Low Stock
+20363,Air Lite 113,Electronics,Laptop,FitMax,2885.0,1804.0,In Stock
+20364,Track Lite 114,Electronics,Smartwatch,HomeEase,1334.0,922.0,In Stock
+20365,Classic Lite 115,Home & Kitchen,Cookware,Apex,503.0,423.0,In Stock
+20366,Glow Premium 116,Beauty,Skincare,HomeEase,1359.0,899.0,In Stock
+20367,Wonder Premium 117,Books,Children,UrbanCart,701.0,587.0,In Stock
+20368,View Premium 118,Electronics,Tablet,PrimeLine,1016.0,636.0,Low Stock
+20369,Note Premium 119,Electronics,Laptop,UrbanCart,1345.0,782.0,In Stock
+20370,Repair Premium 120,Beauty,Haircare,FitMax,744.0,444.0,In Stock
+20371,Insights Everyday 121,Books,Non-Fiction,TechPro,976.0,763.0,In Stock
+20372,Explorer Everyday 122,Sports,Outdoor,Apex,826.0,588.0,In Stock
+20373,Pure Everyday 123,Beauty,Skincare,PrimeLine,840.0,609.0,In Stock
+20374,Prime Everyday 124,Electronics,Mobile,FitMax,696.0,585.0,In Stock
+20375,Color Everyday 125,Beauty,Makeup,StyleHub,979.0,687.0,In Stock
+20376,Oxford Series 126,Fashion,Shirts,StyleHub,749.0,438.0,Low Stock
+20377,Elegant Series 127,Fashion,Dresses,Apex,1961.0,1501.0,In Stock
+20378,Formal Series 128,Fashion,Shirts,FitMax,1526.0,934.0,In Stock
+20379,Radiance Series 129,Beauty,Skincare,TechPro,2912.0,2110.0,In Stock
+20380,Train Series 130,Sports,Fitness,HomeEase,4566.0,3682.0,In Stock
+20381,Comfort Essential 131,Home & Kitchen,Furniture,PrimeLine,2080.0,1442.0,Low Stock
+20382,Pro Essential 132,Electronics,Laptop,HomeEase,1794.0,1156.0,In Stock
+20383,Air Essential 133,Electronics,Laptop,UrbanCart,2167.0,1566.0,Low Stock
+20384,Sport Essential 134,Fashion,Shoes,TechPro,1814.0,1067.0,In Stock
+20385,Scent Essential 135,Beauty,Fragrance,Apex,1384.0,889.0,Out of Stock
+20386,Striker Plus 136,Sports,Cricket,PrimeLine,1314.0,921.0,In Stock
+20387,Classic Plus 137,Fashion,Accessories,PrimeLine,689.0,431.0,In Stock
+20388,Pure Plus 138,Beauty,Skincare,FitMax,2311.0,1298.0,In Stock
+20389,Knowledge Plus 139,Books,Non-Fiction,HomeEase,1312.0,952.0,In Stock
+20390,Train Plus 140,Sports,Fitness,HomeEase,3436.0,2303.0,In Stock
+20391,Trail Pro 141,Sports,Outdoor,,2428.0,1620.0,In Stock
+20392,Casual Pro 142,Fashion,Shirts,PrimeLine,892.0,757.0,In Stock
+20393,Neo Pro 143,Electronics,Mobile,PrimeLine,3012.0,1758.0,In Stock
+20394,Tales Pro 144,Books,Fiction,FitMax,254.0,151.0,In Stock
+20395,Clear Pro 145,Beauty,Skincare,Apex,4697.0,3818.0,In Stock
+20396,Book Prime 146,Electronics,Laptop,Nova,561.0,330.0,In Stock
+20397,Elegant Prime 147,Fashion,Dresses,TechPro,1848.0,1525.0,Low Stock
+20398,Neo Prime 148,Electronics,Mobile,FitMax,1768.0,1329.0,In Stock
+20399,Scholar Prime 149,Books,Academic,HomeEase,2781.0,1970.0,In Stock
+20400,Repair Prime 150,Beauty,Haircare,FitMax,1082.0,685.0,In Stock
+20401,Striker Classic 151,Sports,Cricket,PrimeLine,332.0,218.0,In Stock
+20402,Classic Classic 152,Fashion,Accessories,Apex,1083.0,864.0,In Stock
+20403,Tune Classic 153,Electronics,Headphones,HomeEase,1162.0,659.0,Low Stock
+20404,Shine Classic 154,Beauty,Haircare,Nova,354.0,276.0,In Stock
+20405,Clear Classic 155,Beauty,Skincare,StyleHub,1380.0,1102.0,Out of Stock
+20406,Chef Advance 156,Home & Kitchen,Cookware,HomeEase,666.0,507.0,In Stock
+20407,Sprint Advance 157,Sports,Cycling,TechPro,2042.0,1156.0,Out of Stock
+20408,Organize Advance 158,Home & Kitchen,Storage,Apex,1141.0,882.0,In Stock
+20409,Adventure Advance 159,Sports,Outdoor,UrbanCart,4792.0,3675.0,In Stock
+20410,Match Advance 160,Sports,Cricket,StyleHub,1134.0,628.0,In Stock
+20411,Bass Elite 161,Electronics,Headphones,Nova,1772.0,1449.0,In Stock
+20412,Kitchen Elite 162,Home & Kitchen,Cookware,Nova,1166.0,688.0,In Stock
+20413,View Elite 163,Electronics,Tablet,UrbanCart,466.0,391.0,In Stock
+20414,Calm Elite 164,Sports,Yoga,Apex,1173.0,670.0,In Stock
+20415,Easy Elite 165,Home & Kitchen,Appliances,HomeEase,2186.0,1358.0,In Stock
+20416,Velvet Select 166,Beauty,Makeup,Nova,1981.0,1500.0,Low Stock
+20417,Casual Select 167,Fashion,Shirts,FitMax,1107.0,654.0,In Stock
+20418,View Select 168,Electronics,Tablet,FitMax,520.0,315.0,In Stock
+20419,Scholar Select 169,Books,Academic,Apex,2036.0,1127.0,In Stock
+20420,Velocity Select 170,Sports,Cycling,TechPro,1759.0,1404.0,In Stock
+20421,Wall Smart 171,Home & Kitchen,Decor,HomeEase,2317.0,1300.0,Low Stock
+20422,Learn Smart 172,Books,Academic,FitMax,1121.0,829.0,Low Stock
+20423,Summit Smart 173,Sports,Outdoor,HomeEase,448.0,325.0,In Stock
+20424,Calm Smart 174,Sports,Yoga,StyleHub,1895.0,1333.0,In Stock
+20425,Easy Smart 175,Home & Kitchen,Appliances,Nova,1331.0,882.0,Out of Stock
+20426,Bass Max 176,Electronics,Headphones,TechPro,3310.0,2118.0,In Stock
+20427,Pulse Max 177,Electronics,Smartwatch,FitMax,1365.0,1143.0,Low Stock
+20428,Essence Max 178,Beauty,Fragrance,Apex,1300.0,1021.0,In Stock
+20429,Strength Max 179,Sports,Fitness,Apex,1757.0,1453.0,In Stock
+20430,Guide Max 180,Books,Academic,Nova,909.0,700.0,In Stock
+20431,Little Ultra 181,Books,Children,StyleHub,881.0,704.0,In Stock
+20432,Smooth Ultra 182,Beauty,Haircare,FitMax,1257.0,1055.0,Low Stock
+20433,Care Ultra 183,Beauty,Haircare,Nova,736.0,505.0,In Stock
+20434,Granite Ultra 184,Home & Kitchen,Cookware,Apex,1154.0,949.0,In Stock
+20435,Work Ultra 185,Electronics,Laptop,PrimeLine,4725.0,2660.0,In Stock
+20436,Smart Lite 186,Home & Kitchen,Appliances,StyleHub,2638.0,1536.0,Low Stock
+20437,Slate Lite 187,Electronics,Tablet,FitMax,1636.0,1140.0,Low Stock
+20438,Champion Lite 188,Sports,Cricket,StyleHub,3672.0,2520.0,In Stock
+20439,Shine Lite 189,Beauty,Haircare,FitMax,784.0,534.0,Low Stock
+20440,Velocity Lite 190,Sports,Cycling,HomeEase,6760.0,4807.0,In Stock
+20441,One Premium 191,Electronics,Mobile,UrbanCart,993.0,707.0,Low Stock
+20442,Stories Premium 192,Books,Fiction,TechPro,4927.0,3997.0,In Stock
+20443,Champion Premium 193,Sports,Cricket,PrimeLine,4913.0,3212.0,In Stock
+20444,Magic Premium 194,Books,Children,StyleHub,429.0,277.0,In Stock
+20445,Clear Premium 195,Beauty,Skincare,PrimeLine,3476.0,2644.0,In Stock
+20446,Oxford Everyday 196,Fashion,Shirts,FitMax,1114.0,829.0,In Stock
+20447,Glow Everyday 197,Beauty,Makeup,Apex,926.0,740.0,In Stock
+20448,Matte Everyday 198,Beauty,Makeup,HomeEase,1884.0,1211.0,In Stock
+20449,Space Everyday 199,Home & Kitchen,Storage,PrimeLine,696.0,384.0,Low Stock
+20450,Work Everyday 200,Electronics,Laptop,PrimeLine,1856.0,1546.0,In Stock
+20451,Glow Series 201,Beauty,Skincare,FitMax,727.0,409.0,In Stock
+20452,Pro Series 202,Electronics,Laptop,PrimeLine,1503.0,1133.0,Low Stock
+20453,Tune Series 203,Electronics,Headphones,Nova,3191.0,2063.0,In Stock
+20454,Beat Series 204,Electronics,Headphones,PrimeLine,1722.0,1166.0,In Stock
+20455,Scent Series 205,Beauty,Fragrance,StyleHub,1060.0,849.0,Low Stock
+20456,Mystery Essential 206,Books,Fiction,StyleHub,1904.0,1287.0,In Stock
+20457,Walk Essential 207,Fashion,Shoes,TechPro,537.0,319.0,Low Stock
+20458,Neo Essential 208,Electronics,Mobile,HomeEase,776.0,602.0,In Stock
+20459,Luxe Essential 209,Beauty,Makeup,UrbanCart,1013.0,563.0,In Stock
+20460,Essential Essential 210,Fashion,Accessories,FitMax,2234.0,1413.0,Out of Stock
+20461,Aura Plus 211,Beauty,Fragrance,TechPro,1744.0,1241.0,In Stock
+20462,Walk Plus 212,Fashion,Shoes,Nova,1897.0,1292.0,In Stock
+20463,Care Plus 213,Beauty,Haircare,StyleHub,1316.0,969.0,Low Stock
+20464,Space Plus 214,Home & Kitchen,Storage,FitMax,803.0,534.0,Low Stock
+20465,Novel Plus 215,Books,Fiction,Nova,3524.0,2351.0,Low Stock
+20466,Velvet Pro 216,Beauty,Makeup,PrimeLine,851.0,557.0,In Stock
+20467,Kitchen Pro 217,Home & Kitchen,Cookware,HomeEase,1759.0,1436.0,In Stock
+20468,Neo Pro 218,Electronics,Mobile,HomeEase,1245.0,691.0,In Stock
+20469,Strength Pro 219,Sports,Fitness,Apex,1931.0,1606.0,Low Stock
+20470,Essential Pro 220,Fashion,Accessories,Nova,904.0,594.0,In Stock
+20471,Stack Prime 221,Home & Kitchen,Storage,StyleHub,2655.0,1751.0,In Stock
+20472,Elegant Prime 222,Fashion,Dresses,StyleHub,3281.0,2519.0,In Stock
+20473,Casual Prime 223,Fashion,Dresses,HomeEase,2551.0,1700.0,In Stock
+20474,Calm Prime 224,Sports,Yoga,HomeEase,1484.0,1091.0,In Stock
+20475,Repair Prime 225,Beauty,Haircare,HomeEase,1009.0,828.0,In Stock
+20476,Ride Classic 226,Sports,Cycling,PrimeLine,8386.0,6741.0,In Stock
+20477,Hydra Classic 227,Beauty,Skincare,HomeEase,703.0,495.0,In Stock
+20478,Exam Classic 228,Books,Academic,UrbanCart,2375.0,1817.0,In Stock
+20479,Track Classic 229,Electronics,Smartwatch,Nova,1663.0,1110.0,Low Stock
+20480,Essential Classic 230,Fashion,Accessories,UrbanCart,1286.0,1007.0,In Stock
+20481,Trail Advance 231,Sports,Outdoor,UrbanCart,1511.0,908.0,In Stock
+20482,Max Advance 232,Electronics,Mobile,UrbanCart,961.0,542.0,In Stock
+20483,Casual Advance 233,Fashion,Dresses,PrimeLine,1768.0,1259.0,In Stock
+20484,Classic Advance 234,Fashion,Shirts,Apex,1646.0,1012.0,In Stock
+20485,Flow Advance 235,Sports,Yoga,PrimeLine,7635.0,5868.0,Out of Stock
+20486,Study Elite 236,Books,Academic,PrimeLine,2687.0,1560.0,In Stock
+20487,Pulse Elite 237,Electronics,Smartwatch,Apex,1873.0,1035.0,In Stock
+20488,Classic Elite 238,Home & Kitchen,Furniture,PrimeLine,1947.0,1466.0,Low Stock
+20489,Strength Elite 239,Sports,Fitness,HomeEase,4428.0,3101.0,Low Stock
+20490,Smart Elite 240,Home & Kitchen,Storage,PrimeLine,713.0,596.0,In Stock
+20491,Runner Select 241,Fashion,Shoes,Nova,1189.0,742.0,In Stock
+20492,Ideas Select 242,Books,Non-Fiction,HomeEase,388.0,228.0,In Stock
+20493,Chronicles Select 243,Books,Fiction,TechPro,1926.0,1073.0,In Stock
+20494,Knowledge Select 244,Books,Non-Fiction,PrimeLine,2325.0,1589.0,In Stock
+20495,Note Select 245,Electronics,Tablet,Nova,701.0,407.0,In Stock
+20496,Tab Smart 246,Electronics,Tablet,Nova,3404.0,2664.0,In Stock
+20497,Modern Smart 247,Home & Kitchen,Furniture,Nova,839.0,480.0,In Stock
+20498,Active Smart 248,Sports,Fitness,FitMax,1072.0,886.0,In Stock
+20499,Granite Smart 249,Home & Kitchen,Cookware,UrbanCart,1448.0,1031.0,In Stock
+20500,Comfort Smart 250,Fashion,Shirts,PrimeLine,3775.0,2865.0,In Stock
+20501,Power Max 001,Sports,Fitness,HomeEase,767.0,452.0,Low Stock
+20502,Elegant Max 002,Fashion,Dresses,HomeEase,1619.0,934.0,In Stock
+20503,Exam Max 003,Books,Academic,Nova,2216.0,1454.0,In Stock
+20504,Grace Max 004,Fashion,Dresses,StyleHub,1938.0,1368.0,In Stock
+20505,Classic Max 005,Fashion,Shoes,UrbanCart,1985.0,1434.0,In Stock
+20506,Little Ultra 006,Books,Children,FitMax,2197.0,1426.0,In Stock
+20507,Hydra Ultra 007,Beauty,Skincare,FitMax,934.0,590.0,In Stock
+20508,Classic Ultra 008,Home & Kitchen,Furniture,TechPro,4012.0,3388.0,In Stock
+20509,Bloom Ultra 009,Beauty,Fragrance,Apex,1246.0,787.0,In Stock
+20510,Velocity Ultra 010,Sports,Cycling,TechPro,1143.0,676.0,In Stock
+20511,Study Lite 011,Books,Academic,Apex,3216.0,2116.0,Low Stock
+20512,Pulse Lite 012,Electronics,Smartwatch,FitMax,889.0,570.0,Out of Stock
+20513,Fit Lite 013,Electronics,Smartwatch,FitMax,1649.0,1116.0,In Stock
+20514,Bloom Lite 014,Beauty,Fragrance,FitMax,837.0,617.0,In Stock
+20515,Ranger Lite 015,Sports,Outdoor,FitMax,6888.0,5035.0,Low Stock
+20516,Glow Premium 016,Beauty,Skincare,Apex,6007.0,4562.0,In Stock
+20517,Casual Premium 017,Fashion,Shirts,Nova,1247.0,744.0,In Stock
+20518,Summit Premium 018,Sports,Outdoor,HomeEase,1878.0,1059.0,Low Stock
+20519,Radiance Premium 019,Beauty,Skincare,TechPro,1344.0,1058.0,In Stock
+20520,Guide Premium 020,Books,Academic,FitMax,1068.0,657.0,In Stock
+20521,Oxford Everyday 021,Fashion,Shirts,HomeEase,1448.0,934.0,In Stock
+20522,PowerPlay Everyday 022,Sports,Cricket,FitMax,1305.0,896.0,In Stock
+20523,Fit Everyday 023,Electronics,Smartwatch,UrbanCart,498.0,381.0,In Stock
+20524,Strength Everyday 024,Sports,Fitness,Nova,1589.0,952.0,In Stock
+20525,Ranger Everyday 025,Sports,Outdoor,Nova,1303.0,1069.0,In Stock
+20526,Smart Series 026,Home & Kitchen,Appliances,PrimeLine,1641.0,1061.0,In Stock
+20527,Max Series 027,Electronics,Mobile,Nova,1274.0,1076.0,Low Stock
+20528,Exam Series 028,Books,Academic,TechPro,1060.0,674.0,In Stock
+20529,Track Series 029,Electronics,Smartwatch,PrimeLine,2365.0,1816.0,In Stock
+20530,Classic Series 030,Fashion,Shoes,UrbanCart,1894.0,1256.0,In Stock
+20531,One Essential 031,Electronics,Mobile,TechPro,3319.0,2658.0,In Stock
+20532,Regular Essential 032,Fashion,Jeans,HomeEase,1847.0,1272.0,In Stock
+20533,Road Essential 033,Sports,Cycling,Nova,1178.0,956.0,In Stock
+20534,Shine Essential 034,Beauty,Haircare,PrimeLine,2000.0,1552.0,In Stock
+20535,Living Essential 035,Home & Kitchen,Decor,StyleHub,370.0,269.0,In Stock
+20536,Urban Plus 036,Fashion,Accessories,UrbanCart,5257.0,3286.0,In Stock
+20537,Pro Plus 037,Electronics,Laptop,FitMax,1601.0,1005.0,In Stock
+20538,Matte Plus 038,Beauty,Makeup,UrbanCart,5541.0,4696.0,In Stock
+20539,Prime Plus 039,Electronics,Mobile,UrbanCart,761.0,630.0,In Stock
+20540,Classic Plus 040,Fashion,Jeans,FitMax,648.0,383.0,Low Stock
+20541,Tab Pro 041,Electronics,Tablet,UrbanCart,1699.0,1038.0,In Stock
+20542,Table Pro 042,Home & Kitchen,Decor,FitMax,1695.0,987.0,In Stock
+20543,Neo Pro 043,Electronics,Mobile,HomeEase,1669.0,1019.0,In Stock
+20544,Scholar Pro 044,Books,Academic,FitMax,1511.0,963.0,In Stock
+20545,Train Pro 045,Sports,Fitness,FitMax,890.0,713.0,In Stock
+20546,Insights Prime 046,Books,Non-Fiction,StyleHub,510.0,295.0,In Stock
+20547,Sprint Prime 047,Sports,Cycling,TechPro,1610.0,1312.0,In Stock
+20548,Casual Prime 048,Fashion,Dresses,StyleHub,582.0,490.0,Out of Stock
+20549,Urban Prime 049,Home & Kitchen,Furniture,Nova,547.0,347.0,Low Stock
+20550,Happy Prime 050,Books,Children,PrimeLine,1046.0,718.0,In Stock
+20551,Little Classic 051,Books,Children,PrimeLine,1772.0,1256.0,In Stock
+20552,Casual Classic 052,Fashion,Shirts,Nova,4876.0,2983.0,In Stock
+20553,Steel Classic 053,Home & Kitchen,Cookware,FitMax,2531.0,1948.0,In Stock
+20554,Grace Classic 054,Fashion,Dresses,FitMax,3400.0,2462.0,In Stock
+20555,Essential Classic 055,Fashion,Accessories,HomeEase,2049.0,1196.0,In Stock
+20556,Mystery Advance 056,Books,Fiction,HomeEase,1700.0,1392.0,
+20557,Sound Advance 057,Electronics,Headphones,TechPro,6828.0,4374.0,In Stock
+20558,Essence Advance 058,Beauty,Fragrance,PrimeLine,567.0,338.0,In Stock
+20559,Cycle Advance 059,Sports,Cycling,HomeEase,1024.0,865.0,In Stock
+20560,Flow Advance 060,Sports,Yoga,StyleHub,1077.0,626.0,Out of Stock
+20561,Wall Elite 061,Home & Kitchen,Decor,UrbanCart,2394.0,1360.0,In Stock
+20562,Classic Elite 062,Fashion,Accessories,UrbanCart,709.0,440.0,In Stock
+20563,Style Elite 063,Fashion,Accessories,Nova,2200.0,1421.0,In Stock
+20564,Grace Elite 064,Fashion,Dresses,StyleHub,1952.0,1328.0,In Stock
+20565,Note Elite 065,Electronics,Tablet,TechPro,2273.0,1717.0,In Stock
+20566,One Select 066,Electronics,Mobile,TechPro,2246.0,1482.0,In Stock
+20567,Max Select 067,Electronics,Mobile,UrbanCart,3641.0,2614.0,In Stock
+20568,Exam Select 068,Books,Academic,Nova,1297.0,716.0,In Stock
+20569,Grace Select 069,Fashion,Dresses,FitMax,1891.0,1258.0,In Stock
+20570,Living Select 070,Home & Kitchen,Decor,FitMax,830.0,692.0,In Stock
+20571,Zen Smart 071,Sports,Yoga,UrbanCart,715.0,559.0,In Stock
+20572,Walk Smart 072,Fashion,Shoes,FitMax,4218.0,3257.0,In Stock
+20573,Style Smart 073,Fashion,Accessories,TechPro,790.0,507.0,Low Stock
+20574,Prime Smart 074,Electronics,Mobile,HomeEase,2032.0,1415.0,In Stock
+20575,Comfort Smart 075,Fashion,Shirts,Apex,1892.0,1520.0,Low Stock
+20576,Velvet Max 076,Beauty,Makeup,TechPro,2875.0,2340.0,In Stock
+20577,Mist Max 077,Beauty,Fragrance,Apex,456.0,348.0,In Stock
+20578,Straight Max 078,Fashion,Jeans,Apex,2391.0,1643.0,In Stock
+20579,Radiance Max 079,Beauty,Skincare,UrbanCart,1290.0,738.0,In Stock
+20580,Train Max 080,Sports,Fitness,Apex,907.0,531.0,In Stock
+20581,Little Ultra 081,Books,Children,StyleHub,1138.0,626.0,In Stock
+20582,Smooth Ultra 082,Beauty,Haircare,Nova,2628.0,1729.0,In Stock
+20583,Organize Ultra 083,Home & Kitchen,Storage,StyleHub,2154.0,1200.0,In Stock
+20584,Note Ultra 084,Electronics,Laptop,Apex,1233.0,839.0,Low Stock
+20585,Work Ultra 085,Electronics,Laptop,FitMax,639.0,466.0,In Stock
+20586,Active Lite 086,Electronics,Smartwatch,UrbanCart,669.0,488.0,In Stock
+20587,Glow Lite 087,Beauty,Makeup,StyleHub,2185.0,1566.0,In Stock
+20588,Kitchen Lite 088,Home & Kitchen,Appliances,TechPro,584.0,361.0,Low Stock
+20589,Power Lite 089,Home & Kitchen,Appliances,PrimeLine,1240.0,875.0,Out of Stock
+20590,Match Lite 090,Sports,Cricket,Apex,7652.0,6458.0,In Stock
+20591,Smart Premium 091,Home & Kitchen,Appliances,PrimeLine,1806.0,1234.0,In Stock
+20592,Sprint Premium 092,Sports,Cycling,TechPro,2170.0,1763.0,In Stock
+20593,Fit Premium 093,Electronics,Smartwatch,StyleHub,672.0,446.0,In Stock
+20594,Sport Premium 094,Fashion,Shoes,UrbanCart,603.0,444.0,Low Stock
+20595,Work Premium 095,Electronics,Laptop,Nova,2247.0,1561.0,In Stock
+20596,Velvet Everyday 096,Beauty,Makeup,UrbanCart,1115.0,844.0,In Stock
+20597,Pulse Everyday 097,Electronics,Smartwatch,Apex,2872.0,2353.0,In Stock
+20598,Classic Everyday 098,Home & Kitchen,Furniture,StyleHub,1470.0,1003.0,low stock
+20599,Cycle Everyday 099,Sports,Cycling,Apex,13516.0,10505.0,In stock
+20600,World Everyday 100,Books,Non-Fiction,StyleHub,985.0,803.0,In Stock
+20601,Silk Series 101,Beauty,Haircare,Nova,1725.0,1357.0,In Stock
+20602,Learn Series 102,Books,Academic,FitMax,799.0,445.0,In Stock
+20603,Active Series 103,Sports,Fitness,PrimeLine,2796.0,1538.0,Low Stock
+20604,Calm Series 104,Sports,Yoga,Nova,1903.0,1551.0,In Stock
+20605,Happy Series 105,Books,Children,TechPro,765.0,588.0,Low Stock
+20606,Tab Essential 106,Electronics,Tablet,HomeEase,1163.0,974.0,In Stock
+20607,Home Essential 107,Home & Kitchen,Appliances,FitMax,3487.0,2224.0,In Stock
+20608,Street Essential 108,Fashion,Shoes,Apex,3225.0,2536.0,In Stock
+20609,Shine Essential 109,Beauty,Haircare,TechPro,570.0,451.0,In Stock
+20610,Novel Essential 110,Books,Fiction,TechPro,1056.0,852.0,Low Stock
+20611,Active Plus 111,Electronics,Smartwatch,PrimeLine,4670.0,3538.0,In Stock
+20612,Home Plus 112,Home & Kitchen,Appliances,StyleHub,1282.0,758.0,In Stock
+20613,Steel Plus 113,Home & Kitchen,Cookware,PrimeLine,1610.0,1214.0,In Stock
+20614,Boundary Plus 114,Sports,Cricket,PrimeLine,2786.0,2038.0,In Stock
+20615,Guide Plus 115,Books,Academic,TechPro,601.0,391.0,Low Stock
+20616,Mystery Pro 116,Books,Fiction,StyleHub,776.0,475.0,Low Stock
+20617,PowerPlay Pro 117,Sports,Cricket,FitMax,1158.0,944.0,In Stock
+20618,Road Pro 118,Sports,Cycling,HomeEase,3128.0,1854.0,In Stock
+20619,Grace Pro 119,Fashion,Dresses,Nova,2773.0,1876.0,In Stock
+20620,Scent Pro 120,Beauty,Fragrance,UrbanCart,2282.0,1681.0,Low Stock
+20621,Smart Prime 121,Home & Kitchen,Appliances,Nova,1306.0,1099.0,In Stock
+20622,Smooth Prime 122,Beauty,Haircare,Nova,2979.0,2238.0,Out of Stock
+20623,Kitchen Prime 123,Home & Kitchen,Appliances,FitMax,1294.0,830.0,Low Stock
+20624,Knowledge Prime 124,Books,Non-Fiction,FitMax,2081.0,1182.0,In Stock
+20625,Comfort Prime 125,Fashion,Shirts,Nova,2586.0,1669.0,In Stock
+20626,Oxford Classic 126,Fashion,Shirts,PrimeLine,4307.0,2747.0,In Stock
+20627,Classic Classic 127,Fashion,Accessories,UrbanCart,1378.0,1097.0,In Stock
+20628,Exam Classic 128,Books,Academic,Nova,1129.0,748.0,In Stock
+20629,Scholar Classic 129,Books,Academic,PrimeLine,3317.0,1922.0,In Stock
+20630,Classic Classic 130,Fashion,Jeans,Nova,3487.0,2828.0,In Stock
+20631,Insights Advance 131,Books,Non-Fiction,HomeEase,1004.0,558.0,In Stock
+20632,Sprint Advance 132,Sports,Cycling,StyleHub,697.0,384.0,Low Stock
+20633,Journey Advance 133,Books,Non-Fiction,PrimeLine,3157.0,2186.0,Low Stock
+20634,Scholar Advance 134,Books,Academic,Apex,492.0,281.0,In Stock
+20635,Easy Advance 135,Home & Kitchen,Appliances,PrimeLine,476.0,287.0,In Stock
+20636,Glow Elite 136,Beauty,Skincare,StyleHub,1201.0,1016.0,In Stock
+20637,Kitchen Elite 137,Home & Kitchen,Cookware,Apex,1432.0,1150.0,In Stock
+20638,Steel Elite 138,Home & Kitchen,Cookware,HomeEase,673.0,524.0,In Stock
+20639,Sport Elite 139,Fashion,Shoes,Nova,1547.0,1162.0,In Stock
+20640,Edge Elite 140,Electronics,Mobile,UrbanCart,1593.0,899.0,In Stock
+20641,Comfort Select 141,Home & Kitchen,Furniture,PrimeLine,980.0,785.0,In Stock
+20642,Sprint Select 142,Sports,Cycling,PrimeLine,5023.0,3473.0,Low Stock
+20643,Air Select 143,Electronics,Laptop,Apex,1771.0,1026.0,In Stock
+20644,Bloom Select 144,Beauty,Fragrance,FitMax,2789.0,1786.0,Out of Stock
+20645,Ranger Select 145,Sports,Outdoor,HomeEase,520.0,364.0,Low Stock
+20646,Wall Smart 146,Home & Kitchen,Decor,PrimeLine,517.0,286.0,In Stock
+20647,Elegant Smart 147,Fashion,Dresses,PrimeLine,1806.0,1130.0,In Stock
+20648,Fun Smart 148,Books,Children,Nova,4472.0,2910.0,Low Stock
+20649,Knowledge Smart 149,Books,Non-Fiction,HomeEase,695.0,479.0,In Stock
+20650,Novel Smart 150,Books,Fiction,Apex,1470.0,809.0,In Stock
+20651,Silk Max 151,Beauty,Haircare,UrbanCart,600.0,432.0,In Stock
+20652,Learn Max 152,Books,Academic,FitMax,840.0,512.0,In Stock
+20653,Casual Max 153,Fashion,Dresses,HomeEase,1519.0,1108.0,In Stock
+20654,Luxe Max 154,Beauty,Makeup,HomeEase,972.0,604.0,In Stock
+20655,Velocity Max 155,Sports,Cycling,UrbanCart,573.0,384.0,Low Stock
+20656,Mystery Ultra 156,Books,Fiction,TechPro,565.0,416.0,In Stock
+20657,Regular Ultra 157,Fashion,Jeans,Nova,393.0,294.0,Low Stock
+20658,Journey Ultra 158,Books,Non-Fiction,Apex,1826.0,1021.0,Low Stock
+20659,Radiance Ultra 159,Beauty,Skincare,FitMax,1975.0,1403.0,In Stock
+20660,Time Ultra 160,Electronics,Smartwatch,PrimeLine,1969.0,1565.0,Low Stock
+20661,Glow Lite 161,Beauty,Skincare,HomeEase,742.0,454.0,In Stock
+20662,Wonder Lite 162,Books,Children,FitMax,2576.0,1828.0,In Stock
+20663,Formal Lite 163,Fashion,Shirts,StyleHub,2120.0,1451.0,Out of Stock
+20664,Radiance Lite 164,Beauty,Skincare,Nova,1346.0,1084.0,Low Stock
+20665,Novel Lite 165,Books,Fiction,TechPro,1210.0,825.0,In Stock
+20666,Little Premium 166,Books,Children,StyleHub,878.0,732.0,Low Stock
+20667,Classic Premium 167,Fashion,Accessories,Apex,1518.0,1132.0,In Stock
+20668,Road Premium 168,Sports,Cycling,FitMax,3832.0,2753.0,Low Stock
+20669,Bloom Premium 169,Beauty,Fragrance,TechPro,2806.0,1789.0,In Stock
+20670,Scent Premium 170,Beauty,Fragrance,UrbanCart,1134.0,827.0,In Stock
+20671,Striker Everyday 171,Sports,Cricket,FitMax,1901.0,1120.0,Low Stock
+20672,Kitchen Everyday 172,Home & Kitchen,Cookware,FitMax,655.0,442.0,In Stock
+20673,Kitchen Everyday 173,Home & Kitchen,Appliances,Apex,2153.0,1368.0,In Stock
+20674,Note Everyday 174,Electronics,Laptop,HomeEase,781.0,587.0,low stock
+20675,Novel Everyday 175,Books,Fiction,StyleHub,2098.0,1635.0,Low Stock
+20676,Stack Series 176,Home & Kitchen,Storage,HomeEase,9227.0,7645.0,In Stock
+20677,Core Series 177,Sports,Fitness,TechPro,925.0,570.0,In Stock
+20678,Summit Series 178,Sports,Outdoor,Apex,8954.0,7301.0,In Stock
+20679,Adventure Series 179,Sports,Outdoor,PrimeLine,1843.0,1481.0,In Stock
+20680,Novel Series 180,Books,Fiction,StyleHub,823.0,666.0,In Stock
+20681,Study Essential 181,Books,Academic,FitMax,799.0,617.0,In Stock
+20682,Pulse Essential 182,Electronics,Smartwatch,PrimeLine,6231.0,3928.0,In Stock
+20683,Exam Essential 183,Books,Academic,UrbanCart,1845.0,1501.0,Low Stock
+20684,Granite Essential 184,Home & Kitchen,Cookware,FitMax,927.0,677.0,Low Stock
+20685,Scent Essential 185,Beauty,Fragrance,StyleHub,1174.0,907.0,In Stock
+20686,Striker Plus 186,Sports,Cricket,UrbanCart,1772.0,1084.0,In Stock
+20687,Pro Plus 187,Electronics,Laptop,FitMax,1332.0,796.0,Low Stock
+20688,Home Plus 188,Home & Kitchen,Decor,UrbanCart,1677.0,1062.0,Low Stock
+20689,Magic Plus 189,Books,Children,FitMax,4242.0,2984.0,In Stock
+20690,Wave Plus 190,Electronics,Headphones,StyleHub,643.0,434.0,In Stock
+20691,Smart Pro 191,Home & Kitchen,Appliances,HomeEase,2037.0,1663.0,In Stock
+20692,Slate Pro 192,Electronics,Tablet,PrimeLine,1277.0,707.0,In Stock
+20693,Steel Pro 193,Home & Kitchen,Cookware,UrbanCart,968.0,556.0,In Stock
+20694,Shine Pro 194,Beauty,Haircare,Nova,2689.0,1741.0,In Stock
+20695,Guide Pro 195,Books,Academic,Nova,518.0,311.0,Low Stock
+20696,Silk Prime 196,Beauty,Haircare,FitMax,288.0,194.0,Low Stock
+20697,Modern Prime 197,Home & Kitchen,Furniture,HomeEase,1550.0,1186.0,In Stock
+20698,Chronicles Prime 198,Books,Fiction,Apex,1224.0,1038.0,In Stock
+20699,Sport Prime 199,Fashion,Shoes,TechPro,556.0,340.0,In Stock
+20700,Essential Prime 200,Home & Kitchen,Furniture,StyleHub,441.0,278.0,In Stock
+20701,Aura Classic 201,Beauty,Fragrance,HomeEase,4698.0,3667.0,In Stock
+20702,Pro Classic 202,Electronics,Laptop,StyleHub,1810.0,1143.0,Out of Stock
+20703,Formal Classic 203,Fashion,Shirts,Nova,1357.0,1033.0,In Stock
+20704,Cycle Classic 204,Sports,Cycling,Nova,5580.0,4046.0,In Stock
+20705,Repair Classic 205,Beauty,Haircare,HomeEase,2603.0,2099.0,In Stock
+20706,Little Advance 206,Books,Children,TechPro,4230.0,2369.0,In Stock
+20707,Core Advance 207,Sports,Fitness,HomeEase,622.0,525.0,Low Stock
+20708,Formal Advance 208,Fashion,Shirts,StyleHub,607.0,509.0,Low Stock
+20709,Cycle Advance 209,Sports,Cycling,Nova,2000.0,1113.0,In Stock
+20710,Novel Advance 210,Books,Fiction,StyleHub,1754.0,1228.0,Low Stock
+20711,Glow Elite 211,Beauty,Skincare,Nova,3018.0,2023.0,In Stock
+20712,Balance Elite 212,Sports,Yoga,TechPro,464.0,291.0,Low Stock
+20713,Care Elite 213,Beauty,Haircare,FitMax,2116.0,1785.0,In Stock
+20714,Knowledge Elite 214,Books,Non-Fiction,HomeEase,2548.0,1535.0,In Stock
+20715,Easy Elite 215,Home & Kitchen,Appliances,Apex,2461.0,1548.0,In Stock
+20716,Runner Select 216,Fashion,Shoes,TechPro,1028.0,568.0,Low Stock
+20717,Home Select 217,Home & Kitchen,Appliances,StyleHub,1876.0,1358.0,Low Stock
+20718,Air Select 218,Electronics,Laptop,Apex,809.0,654.0,In Stock
+20719,Radiance Select 219,Beauty,Skincare,StyleHub,1107.0,815.0,Low Stock
+20720,Work Select 220,Electronics,Laptop,HomeEase,680.0,507.0,In Stock
+20721,Chef Smart 221,Home & Kitchen,Cookware,Nova,818.0,466.0,In Stock
+20722,PowerPlay Smart 222,Sports,Cricket,UrbanCart,1145.0,875.0,In Stock
+20723,Kitchen Smart 223,Home & Kitchen,Appliances,FitMax,973.0,655.0,In Stock
+20724,Tales Smart 224,Books,Fiction,UrbanCart,818.0,566.0,In Stock
+20725,Wave Smart 225,Electronics,Headphones,StyleHub,576.0,418.0,In Stock
+20726,Flare Max 226,Fashion,Dresses,PrimeLine,4792.0,4038.0,In Stock
+20727,Max Max 227,Electronics,Mobile,UrbanCart,967.0,749.0,In Stock
+20728,Air Max 228,Electronics,Laptop,FitMax,1660.0,1254.0,In Stock
+20729,Cycle Max 229,Sports,Cycling,FitMax,427.0,290.0,In Stock
+20730,Wave Max 230,Electronics,Headphones,Apex,3237.0,1814.0,In Stock
+20731,Mystery Ultra 231,Books,Fiction,FitMax,1493.0,1062.0,In Stock
+20732,Glow Ultra 232,Beauty,Makeup,UrbanCart,1004.0,751.0,In Stock
+20733,Straight Ultra 233,Fashion,Jeans,StyleHub,1009.0,768.0,Low Stock
+20734,Tales Ultra 234,Books,Fiction,Nova,2357.0,1726.0,Out of Stock
+20735,Comfort Ultra 235,Fashion,Shirts,HomeEase,196.0,125.0,In Stock
+20736,Urban Lite 236,Fashion,Accessories,Apex,784.0,483.0,Low Stock
+20737,Classic Lite 237,Fashion,Accessories,HomeEase,1240.0,716.0,In Stock
+20738,Matte Lite 238,Beauty,Makeup,StyleHub,1230.0,936.0,Low Stock
+20739,Tales Lite 239,Books,Fiction,HomeEase,6826.0,5742.0,In Stock
+20740,Scent Lite 240,Beauty,Fragrance,PrimeLine,1076.0,761.0,In Stock
+20741,Smart Premium 241,Home & Kitchen,Appliances,FitMax,2549.0,1917.0,In Stock
+20742,Ideas Premium 242,Books,Non-Fiction,Apex,4348.0,3295.0,Low Stock
+20743,Essence Premium 243,Beauty,Fragrance,TechPro,2071.0,1239.0,In Stock
+20744,Boundary Premium 244,Sports,Cricket,StyleHub,864.0,525.0,In Stock
+20745,Classic Premium 245,Fashion,Shoes,UrbanCart,581.0,356.0,In Stock
+20746,Comfort Everyday 246,Home & Kitchen,Furniture,Nova,2174.0,1804.0,Out of Stock
+20747,Wonder Everyday 247,Books,Children,PrimeLine,3902.0,2164.0,In Stock
+20748,Champion Everyday 248,Sports,Cricket,PrimeLine,1910.0,1361.0,In Stock
+20749,Power Everyday 249,Home & Kitchen,Appliances,FitMax,2986.0,1980.0,In Stock
+20750,Guide Everyday 250,Books,Academic,FitMax,7221.0,5400.0,Low Stock
+20751,Book Series 001,Electronics,Laptop,UrbanCart,2308.0,1422.0,In Stock
+20752,Ideas Series 002,Books,Non-Fiction,FitMax,655.0,549.0,In Stock
+20753,Essence Series 003,Beauty,Fragrance,Apex,1385.0,899.0,In Stock
+20754,Radiance Series 004,Beauty,Skincare,Apex,3264.0,2702.0,In Stock
+20755,Note Series 005,Electronics,Tablet,TechPro,1139.0,828.0,In Stock
+20756,Comfort Essential 006,Home & Kitchen,Furniture,HomeEase,3564.0,2403.0,In Stock
+20757,Explorer Essential 007,Sports,Outdoor,FitMax,1282.0,987.0,In Stock
+20758,Pure Essential 008,Beauty,Skincare,TechPro,1665.0,1192.0,In Stock
+20759,Track Essential 009,Electronics,Smartwatch,Apex,1066.0,631.0,In Stock
+20760,Repair Essential 010,Beauty,Haircare,HomeEase,1486.0,1131.0,In Stock
+20761,Striker Plus 011,Sports,Cricket,PrimeLine,1538.0,1113.0,Low Stock
+20762,Home Plus 012,Home & Kitchen,Appliances,UrbanCart,471.0,339.0,In Stock
+20763,Flex Plus 013,Sports,Yoga,UrbanCart,1005.0,775.0,In Stock
+20764,Magic Plus 014,Books,Children,FitMax,601.0,448.0,In Stock
+20765,Classic Plus 015,Fashion,Jeans,Apex,1028.0,678.0,Low Stock
+20766,Chef Pro 016,Home & Kitchen,Cookware,TechPro,799.0,516.0,Low Stock
+20767,Learn Pro 017,Books,Academic,Nova,2586.0,1617.0,Low Stock
+20768,Chronicles Pro 018,Books,Fiction,HomeEase,2605.0,1882.0,In Stock
+20769,Everyday Pro 019,Fashion,Accessories,Apex,1928.0,1234.0,In Stock
+20770,Classic Pro 020,Fashion,Shoes,StyleHub,588.0,345.0,In Stock
+20771,Study Prime 021,Books,Academic,StyleHub,1257.0,987.0,Low Stock
+20772,Max Prime 022,Electronics,Mobile,FitMax,558.0,342.0,In Stock
+20773,Kitchen Prime 023,Home & Kitchen,Appliances,UrbanCart,1217.0,730.0,In Stock
+20774,Luxe Prime 024,Beauty,Makeup,FitMax,2040.0,1642.0,In Stock
+20775,Color Prime 0775,Beauty,Makeup,Apex,2553.0,1942.0,In Stock
+20776,Glow Classic 026,Beauty,Skincare,UrbanCart,1821.0,1420.0,In Stock
+20777,Casual Classic 027,Fashion,Shirts,Apex,3035.0,1988.0,Low Stock
+20778,Fun Classic 028,Books,Children,Nova,1586.0,1166.0,In Stock
+20779,Luxe Classic 029,Beauty,Makeup,UrbanCart,1151.0,955.0,Low Stock
+20780,Scent Classic 030,Beauty,Fragrance,TechPro,2363.0,1500.0,In Stock
+20781,Mystery Advance 031,Books,Fiction,FitMax,2414.0,1378.0,In Stock
+20782,Sound Advance 032,Electronics,Headphones,Nova,953.0,573.0,In Stock
+20783,Champion Advance 033,Sports,Cricket,PrimeLine,1714.0,1404.0,In Stock
+20784,Magic Advance 034,Books,Children,HomeEase,1106.0,702.0,In Stock
+20785,Color Advance 035,Beauty,Makeup,Apex,363.0,253.0,In Stock
+20786,Velvet Elite 036,Beauty,Makeup,HomeEase,1783.0,1267.0,In Stock
+20787,Walk Elite 037,Fashion,Shoes,TechPro,577.0,484.0,In Stock
+20788,Home Elite 038,Home & Kitchen,Decor,TechPro,1658.0,1062.0,In Stock
+20789,Shine Elite 039,Beauty,Haircare,Nova,494.0,349.0,In Stock
+20790,World Elite 040,Books,Non-Fiction,Apex,839.0,703.0,In Stock
+20791,Flare Select 041,Fashion,Dresses,StyleHub,1010.0,617.0,In Stock
+20792,Slate Select 042,Electronics,Tablet,StyleHub,2925.0,2133.0,In Stock
+20793,Style Select 043,Fashion,Accessories,PrimeLine,947.0,539.0,In Stock
+20794,Prime Select 044,Electronics,Mobile,TechPro,666.0,419.0,In Stock
+20795,Happy Select 045,Books,Children,TechPro,1697.0,969.0,Low Stock
+20796,Silk Smart 046,Beauty,Haircare,TechPro,1163.0,755.0,In Stock
+20797,Modern Smart 047,Home & Kitchen,Furniture,HomeEase,2239.0,1370.0,In Stock
+20798,Essence Smart 048,Beauty,Fragrance,TechPro,694.0,548.0,Low Stock
+20799,Bloom Smart 049,Beauty,Fragrance,Apex,1536.0,1058.0,In Stock
+20800,Repair Smart 050,Beauty,Haircare,Nova,6669.0,4478.0,In Stock
+20801,Glow Max 0801,Beauty,Skincare,FitMax,1146.0,868.0,In Stock
+20802,Stories Max 052,Books,Fiction,HomeEase,1512.0,1261.0,In Stock
+20803,Exam Max 053,Books,Academic,Apex,455.0,291.0,In Stock
+20804,Granite Max 054,Home & Kitchen,Cookware,Nova,769.0,438.0,In Stock
+20805,Essential Max 055,Home & Kitchen,Furniture,Apex,1806.0,1053.0,In Stock
+20806,Mystery Ultra 056,Books,Fiction,TechPro,1081.0,873.0,In Stock
+20807,Mist Ultra 057,Beauty,Fragrance,TechPro,1997.0,1605.0,In Stock
+20808,Air Ultra 058,Electronics,Laptop,Apex,1766.0,1223.0,In Stock
+20809,Shine Ultra 059,Beauty,Haircare,Apex,569.0,338.0,In Stock
+20810,Wave Ultra 060,Electronics,Headphones,Apex,2591.0,1834.0,Low Stock
+20811,One Lite 061,Electronics,Mobile,PrimeLine,597.0,448.0,In Stock
+20812,Home Lite 062,Home & Kitchen,Appliances,,815.0,529.0,In Stock
+20813,Home Lite 063,Home & Kitchen,Decor,PrimeLine,1555.0,894.0,In Stock
+20814,Pad Lite 064,Electronics,Tablet,Nova,3709.0,2398.0,Low Stock
+20815,World Lite 0815,Books,Non-Fiction,StyleHub,697.0,528.0,In Stock
+20816,Oxford Premium 066,Fashion,Shirts,StyleHub,1474.0,1243.0,In Stock
+20817,Mist Premium 067,Beauty,Fragrance,UrbanCart,1482.0,900.0,Low Stock
+20818,Fun Premium 068,Books,Children,FitMax,2053.0,1692.0,In Stock
+20819,Magic Premium 069,Books,Children,TechPro,2892.0,1987.0,Low Stock
+20820,Match Premium 070,Sports,Cricket,Nova,1030.0,771.0,In Stock
+20821,Smart Everyday 071,Home & Kitchen,Appliances,UrbanCart,2586.0,2092.0,Low Stock
+20822,Balance Everyday 072,Sports,Yoga,Nova,3180.0,2281.0,In Stock
+20823,Exam Everyday 073,Books,Academic,HomeEase,4271.0,2428.0,In Stock
+20824,Track Everyday 074,Electronics,Smartwatch,FitMax,1856.0,1169.0,In Stock
+20825,World Everyday 075,Books,Non-Fiction,TechPro,1484.0,1174.0,In Stock
+20826,Little Series 076,Books,Children,Nova,984.0,704.0,In Stock
+20827,Stories Series 077,Books,Fiction,Apex,519.0,337.0,Out of Stock
+20828,Formal Series 078,Fashion,Shirts,PrimeLine,1118.0,811.0,In Stock
+20829,Space Series 079,Home & Kitchen,Storage,Apex,1441.0,909.0,In Stock
+20830,Match Series 080,Sports,Cricket,Nova,1247.0,776.0,In Stock
+20831,Velvet Essential 081,Beauty,Makeup,UrbanCart,1975.0,1577.0,Low Stock
+20832,Sprint Essential 082,Sports,Cycling,TechPro,520.0,348.0,In Stock
+20833,Home Essential 083,Home & Kitchen,Decor,Nova,1190.0,752.0,In Stock
+20834,Space Essential 084,Home & Kitchen,Storage,StyleHub,4898.0,3295.0,In Stock
+20835,Novel Essential 085,Books,Fiction,PrimeLine,2558.0,2113.0,In Stock
+20836,Glow Plus 086,Beauty,Skincare,Apex,1999.0,1208.0,In Stock
+20837,Stories Plus 087,Books,Fiction,Nova,1727.0,1046.0,In Stock
+20838,Exam Plus 088,Books,Academic,StyleHub,1056.0,693.0,In Stock
+20839,Grace Plus 089,Fashion,Dresses,TechPro,428.0,243.0,In Stock
+20840,Smart Plus 090,Home & Kitchen,Storage,FitMax,1803.0,1032.0,In Stock
+20841,Mystery Pro 091,Books,Fiction,FitMax,273.0,151.0,Low Stock
+20842,Explorer Pro 092,Sports,Outdoor,StyleHub,1084.0,644.0,In Stock
+20843,Care Pro 093,Beauty,Haircare,StyleHub,1336.0,991.0,Low Stock
+20844,Scholar Pro 094,Books,Academic,FitMax,1002.0,610.0,In Stock
+20845,Classic Pro 095,Home & Kitchen,Cookware,FitMax,5494.0,3644.0,Out of Stock
+20846,Urban Prime 096,Fashion,Accessories,FitMax,4384.0,3339.0,In Stock
+20847,Max Prime 097,Electronics,Mobile,UrbanCart,2621.0,1467.0,Low Stock
+20848,Straight Prime 098,Fashion,Jeans,TechPro,734.0,450.0,In Stock
+20849,Everyday Prime 099,Fashion,Accessories,StyleHub,4670.0,3964.0,In Stock
+20850,Comfort Prime 100,Fashion,Shirts,FitMax,2003.0,1460.0,In Stock
+20851,Active Classic 101,Electronics,Smartwatch,Nova,726.0,543.0,In Stock
+20852,PowerPlay Classic 102,Sports,Cricket,Nova,1368.0,964.0,In Stock
+20853,Style Classic 103,Fashion,Accessories,Apex,2498.0,2098.0,In Stock
+20854,Comfort Classic 104,Fashion,Jeans,HomeEase,908.0,539.0,In Stock
+20855,Happy Classic 105,Books,Children,PrimeLine,1468.0,837.0,Low Stock
+20856,Slim Advance 106,Fashion,Jeans,HomeEase,1645.0,1308.0,In Stock
+20857,Stories Advance 107,Books,Fiction,Apex,655.0,361.0,In Stock
+20858,Organize Advance 108,Home & Kitchen,Storage,Nova,1124.0,808.0,In Stock
+20859,Magic Advance 109,Books,Children,FitMax,688.0,379.0,In Stock
+20860,World Advance 110,Books,Non-Fiction,UrbanCart,2356.0,1542.0,In Stock
+20861,Ride Elite 111,Sports,Cycling,Nova,742.0,553.0,In Stock
+20862,Wonder Elite 112,Books,Children,Apex,1619.0,1156.0,Low Stock
+20863,Flex Elite 113,Sports,Yoga,UrbanCart,543.0,390.0,Low Stock
+20864,Bloom Elite 114,Beauty,Fragrance,PrimeLine,641.0,383.0,In Stock
+20865,Match Elite 115,Sports,Cricket,StyleHub,621.0,396.0,In Stock
+20866,Little Select 116,Books,Children,Apex,1110.0,847.0,Low Stock
+20867,Smooth Select 117,Beauty,Haircare,TechPro,1506.0,839.0,In Stock
+20868,Champion Select 118,Sports,Cricket,UrbanCart,1698.0,1237.0,In Stock
+20869,Prime Select 119,Electronics,Mobile,PrimeLine,423.0,298.0,In Stock
+20870,Novel Select 120,Books,Fiction,UrbanCart,1200.0,784.0,Low Stock
+20871,Striker Smart 121,Sports,Cricket,UrbanCart,822.0,535.0,In Stock
+20872,Pulse Smart 122,Electronics,Smartwatch,TechPro,1895.0,1496.0,In Stock
+20873,Steel Smart 123,Home & Kitchen,Cookware,TechPro,1126.0,748.0,Out of Stock
+20874,Granite Smart 124,Home & Kitchen,Cookware,Apex,1271.0,730.0,Low Stock
+20875,Classic Smart 125,Home & Kitchen,Cookware,Apex,825.0,692.0,In Stock
+20876,Study Max 126,Books,Academic,Apex,4109.0,2421.0,In Stock
+20877,Walk Max 127,Fashion,Shoes,StyleHub,582.0,459.0,Low Stock
+20878,Formal Max 128,Fashion,Shirts,UrbanCart,1033.0,572.0,In Stock
+20879,Calm Max 129,Sports,Yoga,TechPro,1436.0,947.0,Low Stock
+20880,Classic Max 130,Fashion,Jeans,PrimeLine,1138.0,802.0,In Stock
+20881,Mystery Ultra 131,Books,Fiction,UrbanCart,815.0,456.0,In Stock
+20882,Balance Ultra 132,Sports,Yoga,Nova,413.0,318.0,Low Stock
+20883,Home Ultra 133,Home & Kitchen,Decor,PrimeLine,855.0,537.0,In Stock
+20884,Shine Ultra 134,Beauty,Haircare,StyleHub,718.0,511.0,In Stock
+20885,Essential Ultra 135,Fashion,Accessories,StyleHub,3990.0,3143.0,In Stock
+20886,Slim Lite 136,Fashion,Jeans,UrbanCart,5837.0,4245.0,Low Stock
+20887,Stories Lite 137,Books,Fiction,TechPro,1296.0,890.0,In Stock
+20888,Formal Lite 138,Fashion,Shirts,UrbanCart,537.0,349.0,In Stock
+20889,Prime Lite 139,Electronics,Mobile,StyleHub,2164.0,1219.0,In stock
+20890,Classic Lite 0890,Fashion,Shoes,TechPro,708.0,583.0,In Stock
+20891,Silk Premium 141,Beauty,Haircare,StyleHub,937.0,682.0,Out of Stock
+20892,Sound Premium 142,Electronics,Headphones,FitMax,890.0,658.0,Low Stock
+20893,Champion Premium 143,Sports,Cricket,UrbanCart,967.0,660.0,Low Stock
+20894,Accent Premium 144,Home & Kitchen,Decor,PrimeLine,1064.0,704.0,In Stock
+20895,Edge Premium 145,Electronics,Mobile,TechPro,570.0,321.0,In Stock
+20896,Aura Everyday 146,Beauty,Fragrance,Apex,849.0,510.0,In Stock
+20897,Pro Everyday 147,Electronics,Laptop,FitMax,2599.0,1761.0,In Stock
+20898,Road Everyday 148,Sports,Cycling,TechPro,1311.0,816.0,In Stock
+20899,Prime Everyday 149,Electronics,Mobile,Apex,1453.0,819.0,In Stock
+20900,Comfort Everyday 150,Fashion,Shirts,PrimeLine,314.0,224.0,In Stock
+20901,One Series 151,Electronics,Mobile,FitMax,2480.0,1709.0,In Stock
+20902,Walk Series 152,Fashion,Shoes,PrimeLine,858.0,580.0,In Stock
+20903,Fun Series 153,Books,Children,HomeEase,2781.0,2184.0,In Stock
+20904,Shine Series 154,Beauty,Haircare,StyleHub,1481.0,1081.0,In Stock
+20905,Clear Series 155,Beauty,Skincare,UrbanCart,930.0,512.0,In Stock
+20906,Active Essential 156,Electronics,Smartwatch,StyleHub,450.0,350.0,In Stock
+20907,Home Essential 157,Home & Kitchen,Appliances,PrimeLine,5506.0,3825.0,Low Stock
+20908,Casual Essential 158,Fashion,Dresses,TechPro,2258.0,1592.0,In Stock
+20909,Luxe Essential 159,Beauty,Makeup,FitMax,2347.0,1917.0,Low Stock
+20910,Smart Essential 160,Home & Kitchen,Storage,Nova,4369.0,2546.0,In Stock
+20911,Mystery Plus 161,Books,Fiction,HomeEase,1549.0,1130.0,Low Stock
+20912,Smooth Plus 162,Beauty,Haircare,TechPro,3226.0,2047.0,In Stock
+20913,Organize Plus 163,Home & Kitchen,Storage,HomeEase,981.0,550.0,Low Stock
+20914,Beat Plus 164,Electronics,Headphones,StyleHub,2163.0,1473.0,Low Stock
+20915,Scent Plus 165,Beauty,Fragrance,PrimeLine,889.0,565.0,In Stock
+20916,Urban Pro 166,Fashion,Accessories,StyleHub,965.0,531.0,In Stock
+20917,Sprint Pro 167,Sports,Cycling,TechPro,1427.0,996.0,In Stock
+20918,Pure Pro 168,Beauty,Skincare,Apex,588.0,378.0,In Stock
+20919,Luxe Pro 169,Beauty,Makeup,HomeEase,1659.0,1129.0,Low Stock
+20920,Happy Pro 0920,Books,Children,Apex,1094.0,606.0,Low Stock
+20921,Silk Prime 171,Beauty,Haircare,StyleHub,368.0,247.0,In Stock
+20922,Balance Prime 172,Sports,Yoga,Apex,995.0,688.0,In Stock
+20923,Street Prime 173,Fashion,Shoes,PrimeLine,1070.0,738.0,In Stock
+20924,Tales Prime 174,Books,Fiction,FitMax,2332.0,1784.0,In Stock
+20925,Classic Prime 175,Fashion,Shoes,Nova,1612.0,1366.0,In Stock
+20926,Ride Classic 176,Sports,Cycling,PrimeLine,3432.0,1916.0,In Stock
+20927,Wonder Classic 0927,Books,Children,TechPro,1878.0,1256.0,Low Stock
+20928,Style Classic 178,Fashion,Accessories,UrbanCart,934.0,754.0,In Stock
+20929,Note Classic 179,Electronics,Laptop,HomeEase,1290.0,952.0,Low Stock
+20930,Smart Classic 180,Home & Kitchen,Storage,UrbanCart,1068.0,903.0,In Stock
+20931,Comfort Advance 181,Home & Kitchen,Furniture,UrbanCart,1839.0,1405.0,In Stock
+20932,Max Advance 182,Electronics,Mobile,UrbanCart,1393.0,1069.0,In Stock
+20933,Care Advance 183,Beauty,Haircare,TechPro,890.0,510.0,In Stock
+20934,Granite Advance 184,Home & Kitchen,Cookware,StyleHub,1347.0,852.0,In Stock
+20935,Time Advance 185,Electronics,Smartwatch,Apex,1808.0,1311.0,Low Stock
+20936,Active Elite 186,Electronics,Smartwatch,PrimeLine,696.0,492.0,In Stock
+20937,Kitchen Elite 187,Home & Kitchen,Cookware,Apex,1646.0,1282.0,In Stock
+20938,Formal Elite 188,Fashion,Shirts,Apex,480.0,407.0,In Stock
+20939,Knowledge Elite 189,Books,Non-Fiction,StyleHub,2748.0,1682.0,In Stock
+20940,Train Elite 190,Sports,Fitness,HomeEase,1887.0,1280.0,In Stock
+20941,Ride Select 191,Sports,Cycling,StyleHub,3862.0,3128.0,In Stock
+20942,PowerPlay Select 192,Sports,Cricket,HomeEase,648.0,519.0,In Stock
+20943,Champion Select 193,Sports,Cricket,HomeEase,2798.0,2225.0,Low Stock
+20944,Granite Select 194,Home & Kitchen,Cookware,HomeEase,2461.0,1812.0,In Stock
+20945,Time Select 195,Electronics,Smartwatch,HomeEase,1190.0,1009.0,In Stock
+20946,Velvet Smart 196,Beauty,Makeup,FitMax,1049.0,690.0,In Stock
+20947,Pulse Smart 197,Electronics,Smartwatch,UrbanCart,662.0,387.0,In Stock
+20948,Kitchen Smart 198,Home & Kitchen,Appliances,Nova,558.0,329.0,In Stock
+20949,Adventure Smart 199,Sports,Outdoor,PrimeLine,822.0,560.0,In Stock
+20950,Clear Smart 200,Beauty,Skincare,Nova,592.0,469.0,Out of Stock
+20951,Trail Max 201,Sports,Outdoor,Nova,3779.0,2592.0,In Stock
+20952,Glow Max 202,Beauty,Makeup,Nova,505.0,370.0,In Stock
+20953,Pure Max 203,Beauty,Skincare,Nova,1476.0,970.0,In Stock
+20954,Granite Max 204,Home & Kitchen,Cookware,HomeEase,1778.0,1359.0,In Stock
+20955,Essential Max 205,Home & Kitchen,Furniture,TechPro,1690.0,1007.0,Low Stock
+20956,Chef Ultra 206,Home & Kitchen,Cookware,StyleHub,1789.0,1263.0,In Stock
+20957,Core Ultra 207,Sports,Fitness,UrbanCart,2478.0,1501.0,Low Stock
+20958,Journey Ultra 208,Books,Non-Fiction,UrbanCart,1002.0,692.0,In Stock
+20959,Track Ultra 209,Electronics,Smartwatch,PrimeLine,1418.0,963.0,In Stock
+20960,Repair Ultra 210,Beauty,Haircare,FitMax,1107.0,810.0,In Stock
+20961,Oxford Lite 0961,Fashion,Shirts,StyleHub,3123.0,2195.0,In Stock
+20962,Smooth Lite 212,Beauty,Haircare,HomeEase,5244.0,4419.0,In Stock
+20963,Steel Lite 213,Home & Kitchen,Cookware,TechPro,616.0,505.0,Low Stock
+20964,Track Lite 214,Electronics,Smartwatch,StyleHub,358.0,228.0,In Stock
+20965,Essential Lite 215,Home & Kitchen,Furniture,Apex,1939.0,1137.0,In Stock
+20966,Comfort Premium 216,Home & Kitchen,Furniture,PrimeLine,2686.0,1529.0,In Stock
+20967,Slate Premium 217,Electronics,Tablet,Apex,4779.0,2912.0,In Stock
+20968,Straight Premium 218,Fashion,Jeans,Apex,2164.0,1334.0,In Stock
+20969,Calm Premium 219,Sports,Yoga,PrimeLine,3318.0,2709.0,In Stock
+20970,World Premium 220,Books,Non-Fiction,FitMax,3940.0,3260.0,In Stock
+20971,Aura Everyday 221,Beauty,Fragrance,UrbanCart,3471.0,2149.0,In Stock
+20972,Store Everyday 222,Home & Kitchen,Storage,FitMax,2375.0,1847.0,In Stock
+20973,Straight Everyday 223,Fashion,Jeans,TechPro,582.0,466.0,In Stock
+20974,Power Everyday 224,Home & Kitchen,Appliances,HomeEase,1332.0,883.0,In Stock
+20975,Smart Everyday 225,Home & Kitchen,Storage,Apex,1628.0,1321.0,In Stock
+20976,Mystery Series 226,Books,Fiction,FitMax,1255.0,1062.0,In Stock
+20977,Smooth Series 227,Beauty,Haircare,Apex,1307.0,1098.0,Low Stock
+20978,Casual Series 228,Fashion,Dresses,UrbanCart,3710.0,2866.0,Low Stock
+20979,Comfort Series 229,Fashion,Jeans,FitMax,819.0,542.0,Low Stock
+20980,Smart Series 230,Home & Kitchen,Storage,HomeEase,2252.0,1392.0,In Stock
+20981,Slim Essential 231,Fashion,Jeans,UrbanCart,1645.0,1395.0,In Stock
+20982,Hydra Essential 232,Beauty,Skincare,UrbanCart,767.0,485.0,Low Stock
+20983,Exam Essential 233,Books,Academic,PrimeLine,665.0,453.0,In Stock
+20984,Grace Essential 0984,Fashion,Dresses,PrimeLine,443.0,279.0,In Stock
+20985,Essential Essential 235,Home & Kitchen,Furniture,Nova,1837.0,1284.0,In Stock
+20986,Little Plus 236,Books,Children,Apex,1285.0,749.0,In Stock
+20987,Modern Plus 237,Home & Kitchen,Furniture,Apex,783.0,621.0,In Stock
+20988,Neo Plus 238,Electronics,Mobile,Apex,396.0,278.0,In Stock
+20989,Radiance Plus 239,Beauty,Skincare,UrbanCart,1774.0,1199.0,In Stock
+20990,Velocity Plus 240,Sports,Cycling,Nova,1196.0,788.0,Low Stock
+20991,Comfort Pro 241,Home & Kitchen,Furniture,HomeEase,842.0,610.0,Low Stock
+20992,Home Pro 242,Home & Kitchen,Appliances,HomeEase,716.0,561.0,In Stock
+20993,Classic Pro 243,Home & Kitchen,Furniture,Apex,1147.0,941.0,Low Stock
+20994,Calm Pro 244,Sports,Yoga,StyleHub,1818.0,1459.0,In Stock
+20995,Guide Pro 245,Books,Academic,TechPro,1081.0,739.0,Low Stock
+20996,Little Prime 246,Books,Children,UrbanCart,619.0,495.0,In Stock
+20997,Table Prime 247,Home & Kitchen,Decor,Apex,1290.0,914.0,Low Stock
+20998,Fun Prime 248,Books,Children,PrimeLine,2643.0,1960.0,Low Stock
+20999,Urban Prime 249,Home & Kitchen,Furniture,StyleHub,1375.0,1035.0,In Stock
+21000,Guide Prime 250,Books,Academic,Nova,1400.0,938.0,In Stock
+21001,Insights Classic 001,Books,Non-Fiction,Nova,1084.0,754.0,In Stock
+21002,Balance Classic 002,Sports,Yoga,PrimeLine,751.0,569.0,In Stock
+21003,Exam Classic 003,Books,Academic,StyleHub,735.0,472.0,In Stock
+21004,Note Classic 004,Electronics,Laptop,UrbanCart,455.0,352.0,In Stock
+21005,Scent Classic 005,Beauty,Fragrance,HomeEase,2886.0,1894.0,In Stock
+21006,Book Advance 006,Electronics,Laptop,TechPro,1809.0,1313.0,In Stock
+21007,Mist Advance 007,Beauty,Fragrance,Apex,1413.0,1132.0,Low Stock
+21008,Style Advance 008,Fashion,Accessories,StyleHub,1623.0,904.0,In Stock
+21009,Tales Advance 009,Books,Fiction,Apex,1670.0,1039.0,Low Stock
+21010,Classic Advance 1010,Fashion,Shoes,TechPro,831.0,597.0,In Stock
+21011,Trail Elite 011,Sports,Outdoor,HomeEase,1084.0,631.0,In Stock
+21012,Table Elite 1012,Home & Kitchen,Decor,HomeEase,984.0,602.0,In Stock
+21013,Fit Elite 013,Electronics,Smartwatch,FitMax,6853.0,5309.0,Low Stock
+21014,Strength Elite 014,Sports,Fitness,HomeEase,2600.0,1450.0,In Stock
+21015,Living Elite 015,Home & Kitchen,Decor,HomeEase,1494.0,1095.0,In Stock
+21016,Trail Select 016,Sports,Outdoor,Apex,3255.0,1824.0,In Stock
+21017,Walk Select 017,Fashion,Shoes,UrbanCart,2998.0,1753.0,In Stock
+21018,Chronicles Select 018,Books,Fiction,UrbanCart,546.0,364.0,In Stock
+21019,Classic Select 019,Fashion,Shirts,UrbanCart,1159.0,973.0,In Stock
+21020,Classic Select 1020,Fashion,Jeans,Nova,1325.0,946.0,In Stock
+21021,Power Smart 021,Sports,Fitness,Nova,1993.0,1283.0,Low Stock
+21022,Core Smart 022,Sports,Fitness,PrimeLine,1158.0,780.0,In Stock
+21023,Fit Smart 023,Electronics,Smartwatch,HomeEase,1256.0,905.0,In Stock
+21024,Adventure Smart 024,Sports,Outdoor,StyleHub,992.0,730.0,In Stock
+21025,Everyday Smart 025,Fashion,Dresses,StyleHub,2649.0,1670.0,Out of Stock
+21026,Little Max 026,Books,Children,PrimeLine,524.0,319.0,In Stock
+21027,Hydra Max 027,Beauty,Skincare,StyleHub,1015.0,709.0,In Stock
+21028,Flex Max 028,Sports,Yoga,PrimeLine,404.0,300.0,In Stock
+21029,Classic Max 029,Fashion,Shirts,PrimeLine,686.0,545.0,Low Stock
+21030,Smart Max 030,Home & Kitchen,Storage,Apex,1646.0,1198.0,In Stock
+21031,Trail Ultra 031,Sports,Outdoor,HomeEase,1667.0,1263.0,Low Stock
+21032,Max Ultra 032,Electronics,Mobile,UrbanCart,1093.0,760.0,Low Stock
+21033,Pure Ultra 033,Beauty,Skincare,PrimeLine,2781.0,2002.0,In Stock
+21034,Knowledge Ultra 034,Books,Non-Fiction,StyleHub,3230.0,2392.0,In Stock
+21035,Guide Ultra 035,Books,Academic,TechPro,1280.0,795.0,In Stock
+21036,Zen Lite 036,Sports,Yoga,UrbanCart,1576.0,1308.0,In Stock
+21037,Elegant Lite 037,Fashion,Dresses,HomeEase,998.0,652.0,In Stock
+21038,Active Lite 038,Sports,Fitness,HomeEase,2013.0,1472.0,In Stock
+21039,Pad Lite 039,Electronics,Tablet,TechPro,616.0,442.0,In Stock
+21040,Match Lite 040,Sports,Cricket,Nova,4304.0,3469.0,In Stock
+21041,Chef Premium 041,Home & Kitchen,Cookware,Apex,2810.0,1641.0,In Stock
+21042,Sprint Premium 042,Sports,Cycling,Apex,614.0,501.0,In Stock
+21043,Casual Premium 043,Fashion,Dresses,StyleHub,802.0,474.0,In Stock
+21044,Strength Premium 044,Sports,Fitness,UrbanCart,1761.0,1045.0,In Stock
+21045,Repair Premium 045,Beauty,Haircare,PrimeLine,1075.0,869.0,In Stock
+21046,Little Everyday 046,Books,Children,StyleHub,1908.0,1197.0,Low Stock
+21047,Balance Everyday 047,Sports,Yoga,StyleHub,1060.0,778.0,In Stock
+21048,Chronicles Everyday 048,Books,Fiction,Apex,3609.0,2487.0,In Stock
+21049,Track Everyday 049,Electronics,Smartwatch,FitMax,1347.0,1118.0,Low Stock
+21050,Comfort Everyday 050,Fashion,Shirts,HomeEase,6460.0,5069.0,In Stock
+21051,Runner Series 051,Fashion,Shoes,TechPro,1982.0,1289.0,In Stock
+21052,Max Series 052,Electronics,Mobile,Apex,557.0,442.0,In Stock
+21053,Fit Series 053,Electronics,Smartwatch,HomeEase,5199.0,3212.0,In Stock
+21054,Pad Series 054,Electronics,Tablet,TechPro,2736.0,2010.0,In Stock
+21055,Train Series 055,Sports,Fitness,PrimeLine,1715.0,1330.0,In Stock
+21056,Flare Essential 056,Fashion,Dresses,TechPro,2039.0,1552.0,In Stock
+21057,Explorer Essential 057,Sports,Outdoor,Apex,618.0,462.0,In Stock
+21058,Fun Essential 058,Books,Children,TechPro,415.0,332.0,In Stock
+21059,Prime Essential 059,Electronics,Mobile,Apex,1304.0,935.0,In Stock
+21060,World Essential 060,Books,Non-Fiction,UrbanCart,3282.0,2719.0,Out of Stock
+21061,Comfort Plus 061,Home & Kitchen,Furniture,PrimeLine,1732.0,1028.0,In Stock
+21062,Classic Plus 062,Fashion,Accessories,Apex,4068.0,2672.0,In Stock
+21063,Chronicles Plus 063,Books,Fiction,StyleHub,3161.0,2481.0,In Stock
+21064,Power Plus 064,Home & Kitchen,Appliances,StyleHub,1357.0,872.0,In Stock
+21065,Novel Plus 065,Books,Fiction,PrimeLine,2891.0,1974.0,In Stock
+21066,Velvet Pro 066,Beauty,Makeup,TechPro,3604.0,2818.0,In Stock
+21067,Pulse Pro 067,Electronics,Smartwatch,UrbanCart,1271.0,904.0,In Stock
+21068,Flex Pro 068,Sports,Yoga,Apex,1166.0,707.0,In Stock
+21069,Prime Pro 069,Electronics,Mobile,StyleHub,1467.0,884.0,In Stock
+21070,Scent Pro 070,Beauty,Fragrance,PrimeLine,279.0,179.0,In Stock
+21071,Runner Prime 071,Fashion,Shoes,StyleHub,1607.0,1030.0,In Stock
+21072,Pulse Prime 072,Electronics,Smartwatch,Nova,2139.0,1264.0,In Stock
+21073,Essence Prime 073,Beauty,Fragrance,Nova,1471.0,1177.0,Low Stock
+21074,Classic Prime 074,Fashion,Shirts,PrimeLine,1676.0,1064.0,In Stock
+21075,Work Prime 075,Electronics,Laptop,FitMax,1302.0,1029.0,In Stock
+21076,Aura Classic 076,Beauty,Fragrance,PrimeLine,366.0,308.0,In Stock
+21077,Max Classic 077,Electronics,Mobile,FitMax,3947.0,2564.0,Out of Stock
+21078,Care Classic 078,Beauty,Haircare,Apex,1055.0,887.0,In Stock
+21079,Power Classic 079,Home & Kitchen,Appliances,FitMax,896.0,544.0,Low Stock
+21080,Velocity Classic 080,Sports,Cycling,PrimeLine,3238.0,2410.0,In Stock
+21081,Insights Advance 081,Books,Non-Fiction,UrbanCart,2530.0,2144.0,In Stock
+21082,Ideas Advance 082,Books,Non-Fiction,HomeEase,1600.0,1268.0,In Stock
+21083,Fun Advance 083,Books,Children,FitMax,2209.0,1367.0,In Stock
+21084,Prime Advance 084,Electronics,Mobile,StyleHub,632.0,396.0,In Stock
+21085,Repair Advance 085,Beauty,Haircare,Nova,1271.0,799.0,In Stock
+21086,Comfort Elite 1086,Home & Kitchen,Furniture,HomeEase,3108.0,2589.0,In Stock
+21087,Sound Elite 087,Electronics,Headphones,UrbanCart,863.0,538.0,Out of Stock
+21088,Straight Elite 088,Fashion,Jeans,TechPro,700.0,492.0,In Stock
+21089,Sport Elite 089,Fashion,Shoes,PrimeLine,1410.0,924.0,In Stock
+21090,Essential Elite 090,Home & Kitchen,Furniture,FitMax,1431.0,942.0,In Stock
+21091,Tab Select 091,Electronics,Tablet,PrimeLine,2040.0,1372.0,In Stock
+21092,Classic Select 092,Fashion,Accessories,UrbanCart,547.0,357.0,In Stock
+21093,View Select 093,Electronics,Tablet,PrimeLine,255.0,186.0,In Stock
+21094,Track Select 094,Electronics,Smartwatch,HomeEase,2438.0,1652.0,In Stock
+21095,Classic Select 095,Fashion,Jeans,FitMax,663.0,452.0,In Stock
+21096,Book Smart 096,Electronics,Laptop,Nova,901.0,632.0,In Stock
+21097,Stories Smart 097,Books,Fiction,TechPro,324.0,213.0,In Stock
+21098,Exam Smart 1098,Books,Academic,Nova,2604.0,2022.0,In Stock
+21099,Knowledge Smart 099,Books,Non-Fiction,TechPro,1682.0,1179.0,In Stock
+21100,Time Smart 100,Electronics,Smartwatch,TechPro,1639.0,1152.0,Low Stock
+21101,Oxford Max 101,Fashion,Shirts,FitMax,1631.0,1000.0,In Stock
+21102,Sprint Max 102,Sports,Cycling,Apex,351.0,196.0,In Stock
+21103,Pure Max 103,Beauty,Skincare,FitMax,706.0,560.0,In Stock
+21104,Urban Max 104,Home & Kitchen,Furniture,HomeEase,999.0,806.0,In Stock
+21105,Ranger Max 105,Sports,Outdoor,HomeEase,823.0,512.0,Out of Stock
+21106,Wall Ultra 106,Home & Kitchen,Decor,HomeEase,1123.0,739.0,In Stock
+21107,Learn Ultra 107,Books,Academic,TechPro,1572.0,1033.0,Low Stock
+21108,Neo Ultra 108,Electronics,Mobile,Nova,2576.0,1946.0,In Stock
+21109,Cycle Ultra 109,Sports,Cycling,FitMax,512.0,310.0,In Stock
+21110,Time Ultra 110,Electronics,Smartwatch,PrimeLine,1332.0,1124.0,In Stock
+21111,Mystery Lite 111,Books,Fiction,Nova,2127.0,1209.0,In Stock
+21112,Elegant Lite 112,Fashion,Dresses,TechPro,735.0,619.0,In Stock
+21113,Neo Lite 113,Electronics,Mobile,StyleHub,1182.0,674.0,In Stock
+21114,Knowledge Lite 114,Books,Non-Fiction,HomeEase,1814.0,1170.0,Low Stock
+21115,Novel Lite 115,Books,Fiction,Apex,1349.0,843.0,In Stock
+21116,Mystery Premium 116,Books,Fiction,FitMax,2076.0,1304.0,In Stock
+21117,Regular Premium 117,Fashion,Jeans,FitMax,1424.0,1208.0,In Stock
+21118,Fit Premium 118,Electronics,Smartwatch,UrbanCart,1094.0,752.0,In Stock
+21119,Power Premium 119,Home & Kitchen,Appliances,TechPro,625.0,366.0,In Stock
+21120,Work Premium 120,Electronics,Laptop,FitMax,1573.0,1329.0,In Stock
+21121,Bass Everyday 121,Electronics,Headphones,Apex,1429.0,890.0,In Stock
+21122,Max Everyday 122,Electronics,Mobile,UrbanCart,703.0,402.0,In Stock
+21123,Pure Everyday 1123,Beauty,Skincare,PrimeLine,1955.0,1089.0,Low Stock
+21124,Strength Everyday 124,Sports,Fitness,Nova,3054.0,2104.0,In Stock
+21125,Clear Everyday 125,Beauty,Skincare,Apex,872.0,720.0,Out of Stock
+21126,Stack Series 126,Home & Kitchen,Storage,TechPro,835.0,463.0,In Stock
+21127,Glow Series 127,Beauty,Makeup,UrbanCart,815.0,626.0,In Stock
+21128,Steel Series 128,Home & Kitchen,Cookware,Apex,450.0,283.0,In Stock
+21129,Comfort Series 129,Fashion,Jeans,UrbanCart,4929.0,3035.0,In Stock
+21130,World Series 130,Books,Non-Fiction,Nova,1000.0,761.0,In Stock
+21131,One Essential 131,Electronics,Mobile,HomeEase,767.0,594.0,In Stock
+21132,Wonder Essential 132,Books,Children,UrbanCart,644.0,462.0,In Stock
+21133,Home Essential 133,Home & Kitchen,Decor,HomeEase,1041.0,636.0,In Stock
+21134,Calm Essential 134,Sports,Yoga,FitMax,852.0,470.0,Out of Stock
+21135,Living Essential 135,Home & Kitchen,Decor,PrimeLine,3411.0,2631.0,In Stock
+21136,Bass Plus 136,Electronics,Headphones,StyleHub,595.0,434.0,In Stock
+21137,Classic Plus 1137,Fashion,Accessories,Apex,493.0,334.0,In Stock
+21138,Straight Plus 138,Fashion,Jeans,StyleHub,1917.0,1177.0,In Stock
+21139,Radiance Plus 139,Beauty,Skincare,UrbanCart,1249.0,972.0,In Stock
+21140,Classic Plus 140,Home & Kitchen,Cookware,UrbanCart,1159.0,662.0,In Stock
+21141,Little Pro 141,Books,Children,StyleHub,1927.0,1431.0,In Stock
+21142,PowerPlay Pro 142,Sports,Cricket,PrimeLine,1464.0,1108.0,In Stock
+21143,Exam Pro 143,Books,Academic,HomeEase,1299.0,801.0,Low Stock
+21144,Strength Pro 144,Sports,Fitness,FitMax,537.0,373.0,In Stock
+21145,Match Pro 145,Sports,Cricket,PrimeLine,453.0,320.0,Low Stock
+21146,One Prime 146,Electronics,Mobile,UrbanCart,850.0,618.0,In Stock
+21147,Hydra Prime 147,Beauty,Skincare,PrimeLine,662.0,543.0,Low Stock
+21148,Chronicles Prime 148,Books,Fiction,PrimeLine,1596.0,1139.0,Low Stock
+21149,Note Prime 149,Electronics,Laptop,PrimeLine,416.0,237.0,Low Stock
+21150,Everyday Prime 150,Fashion,Dresses,Apex,1002.0,655.0,In Stock
+21151,Chef Classic 151,Home & Kitchen,Cookware,StyleHub,1197.0,884.0,In Stock
+21152,Core Classic 152,Sports,Fitness,TechPro,1305.0,848.0,Low Stock
+21153,Exam Classic 153,Books,Academic,FitMax,1736.0,1355.0,In Stock
+21154,Prime Classic 154,Electronics,Mobile,HomeEase,1083.0,657.0,In Stock
+21155,Match Classic 155,Sports,Cricket,UrbanCart,868.0,515.0,In Stock
+21156,Urban Advance 156,Fashion,Accessories,UrbanCart,3008.0,1863.0,In Stock
+21157,Wonder Advance 157,Books,Children,,1088.0,884.0,In Stock
+21158,Neo Advance 158,Electronics,Mobile,Nova,3369.0,2541.0,In Stock
+21159,Granite Advance 159,Home & Kitchen,Cookware,UrbanCart,1084.0,765.0,In Stock
+21160,Flow Advance 160,Sports,Yoga,HomeEase,1325.0,848.0,In Stock
+21161,Trail Elite 161,Sports,Outdoor,TechPro,1224.0,1011.0,In Stock
+21162,Sound Elite 162,Electronics,Headphones,TechPro,1557.0,1271.0,
+21163,Tune Elite 163,Electronics,Headphones,Nova,1020.0,683.0,Low Stock
+21164,Comfort Elite 164,Fashion,Jeans,Apex,1426.0,1106.0,In Stock
+21165,Wave Elite 165,Electronics,Headphones,TechPro,3623.0,2986.0,In Stock
+21166,Power Select 166,Sports,Fitness,UrbanCart,2649.0,1706.0,In Stock
+21167,Core Select 167,Sports,Fitness,PrimeLine,2660.0,1725.0,In Stock
+21168,Active Select 168,Sports,Fitness,StyleHub,560.0,400.0,In Stock
+21169,Sport Select 169,Fashion,Shoes,HomeEase,622.0,418.0,In Stock
+21170,Scent Select 170,Beauty,Fragrance,HomeEase,1543.0,1201.0,In Stock
+21171,Aura Smart 171,Beauty,Fragrance,Apex,2211.0,1572.0,In Stock
+21172,PowerPlay Smart 172,Sports,Cricket,TechPro,956.0,587.0,In Stock
+21173,Formal Smart 173,Fashion,Shirts,StyleHub,851.0,559.0,Low Stock
+21174,Radiance Smart 174,Beauty,Skincare,HomeEase,3314.0,2490.0,In Stock
+21175,Scent Smart 175,Beauty,Fragrance,FitMax,2092.0,1184.0,In Stock
+21176,Silk Max 176,Beauty,Haircare,StyleHub,2664.0,1739.0,In Stock
+21177,Wonder Max 177,Books,Children,StyleHub,1005.0,558.0,In Stock
+21178,Straight Max 178,Fashion,Jeans,UrbanCart,955.0,760.0,In Stock
+21179,Magic Max 179,Books,Children,UrbanCart,2482.0,1452.0,Low Stock
+21180,Edge Max 180,Electronics,Mobile,UrbanCart,1129.0,647.0,In Stock
+21181,Urban Ultra 181,Fashion,Accessories,FitMax,900.0,707.0,In Stock
+21182,Regular Ultra 182,Fashion,Jeans,PrimeLine,740.0,427.0,In Stock
+21183,Journey Ultra 183,Books,Non-Fiction,FitMax,961.0,726.0,In Stock
+21184,Beat Ultra 184,Electronics,Headphones,FitMax,2366.0,1571.0,In Stock
+21185,Essential Ultra 185,Home & Kitchen,Furniture,HomeEase,502.0,400.0,In Stock
+21186,Flare Lite 186,Fashion,Dresses,Nova,2016.0,1219.0,In Stock
+21187,Balance Lite 187,Sports,Yoga,HomeEase,845.0,486.0,In Stock
+21188,Style Lite 188,Fashion,Accessories,Apex,1168.0,722.0,In Stock
+21189,Bloom Lite 189,Beauty,Fragrance,TechPro,1218.0,1011.0,In Stock
+21190,Easy Lite 190,Home & Kitchen,Appliances,Apex,1160.0,927.0,In Stock
+21191,Little Premium 191,Books,Children,Nova,1111.0,706.0,In Stock
+21192,Sprint Premium 192,Sports,Cycling,HomeEase,1003.0,614.0,In Stock
+21193,Neo Premium 193,Electronics,Mobile,PrimeLine,924.0,552.0,In Stock
+21194,Boundary Premium 194,Sports,Cricket,HomeEase,3159.0,1947.0,In Stock
+21195,Time Premium 195,Electronics,Smartwatch,PrimeLine,1361.0,832.0,In Stock
+21196,Silk Everyday 196,Beauty,Haircare,UrbanCart,1234.0,1008.0,In Stock
+21197,Core Everyday 197,Sports,Fitness,Nova,881.0,490.0,Low Stock
+21198,Exam Everyday 198,Books,Academic,UrbanCart,1027.0,836.0,In Stock
+21199,Beat Everyday 199,Electronics,Headphones,StyleHub,883.0,497.0,In Stock
+21200,Smart Everyday 200,Home & Kitchen,Storage,FitMax,2203.0,1758.0,In Stock
+21201,Power Series 201,Sports,Fitness,PrimeLine,821.0,556.0,In Stock
+21202,Kitchen Series 202,Home & Kitchen,Cookware,Nova,311.0,178.0,In Stock
+21203,Flex Series 203,Sports,Yoga,StyleHub,1391.0,1098.0,In Stock
+21204,Accent Series 204,Home & Kitchen,Decor,HomeEase,1117.0,700.0,In Stock
+21205,Time Series 205,Electronics,Smartwatch,Nova,915.0,744.0,Low Stock
+21206,Aura Essential 206,Beauty,Fragrance,Apex,2422.0,1879.0,Low Stock
+21207,Sprint Essential 207,Sports,Cycling,Apex,227.0,192.0,In Stock
+21208,Classic Essential 208,Home & Kitchen,Furniture,StyleHub,3731.0,2983.0,In Stock
+21209,Tales Essential 209,Books,Fiction,StyleHub,2659.0,1655.0,Out of Stock
+21210,Guide Essential 210,Books,Academic,PrimeLine,890.0,599.0,In Stock
+21211,Active Plus 211,Electronics,Smartwatch,Apex,999.0,758.0,Out of Stock
+21212,Store Plus 212,Home & Kitchen,Storage,HomeEase,1859.0,1199.0,In Stock
+21213,Matte Plus 213,Beauty,Makeup,UrbanCart,1892.0,1351.0,In Stock
+21214,Everyday Plus 214,Fashion,Accessories,Nova,887.0,551.0,In Stock
+21215,Living Plus 215,Home & Kitchen,Decor,UrbanCart,468.0,350.0,In Stock
+21216,Velvet Pro 1216,Beauty,Makeup,UrbanCart,5292.0,3454.0,Low Stock
+21217,Learn Pro 217,Books,Academic,Nova,2494.0,1413.0,In Stock
+21218,Steel Pro 218,Home & Kitchen,Cookware,HomeEase,1483.0,1246.0,In Stock
+21219,Space Pro 219,Home & Kitchen,Storage,UrbanCart,1502.0,1206.0,In Stock
+21220,Flow Pro 220,Sports,Yoga,TechPro,2006.0,1286.0,Low Stock
+21221,Aura Prime 221,Beauty,Fragrance,TechPro,2168.0,1277.0,In Stock
+21222,Core Prime 222,Sports,Fitness,FitMax,345.0,266.0,In Stock
+21223,Pure Prime 223,Beauty,Skincare,FitMax,1066.0,657.0,In Stock
+21224,Calm Prime 1224,Sports,Yoga,TechPro,997.0,729.0,In Stock
+21225,Match Prime 225,Sports,Cricket,FitMax,1206.0,945.0,Low Stock
+21226,Velvet Classic 226,Beauty,Makeup,TechPro,2211.0,1397.0,In Stock
+21227,Regular Classic 227,Fashion,Jeans,Nova,418.0,266.0,In Stock
+21228,Casual Classic 228,Fashion,Dresses,FitMax,557.0,317.0,Low Stock
+21229,Space Classic 229,Home & Kitchen,Storage,FitMax,860.0,556.0,In Stock
+21230,Comfort Classic 230,Fashion,Shirts,PrimeLine,1481.0,1080.0,In Stock
+21231,Aura Advance 231,Beauty,Fragrance,PrimeLine,2300.0,1372.0,Low Stock
+21232,PowerPlay Advance 232,Sports,Cricket,StyleHub,3867.0,3233.0,In Stock
+21233,Champion Advance 233,Sports,Cricket,PrimeLine,1112.0,853.0,Low Stock
+21234,Grace Advance 234,Fashion,Dresses,UrbanCart,2298.0,1404.0,In Stock
+21235,Flow Advance 1235,Sports,Yoga,HomeEase,2125.0,1507.0,In Stock
+21236,Runner Elite 236,Fashion,Shoes,UrbanCart,1905.0,1271.0,In Stock
+21237,Casual Elite 237,Fashion,Shirts,PrimeLine,1318.0,876.0,In Stock
+21238,Neo Elite 238,Electronics,Mobile,FitMax,1033.0,742.0,In Stock
+21239,Accent Elite 239,Home & Kitchen,Decor,Apex,670.0,390.0,In Stock
+21240,Ranger Elite 240,Sports,Outdoor,Nova,642.0,395.0,In Stock
+21241,Comfort Select 241,Home & Kitchen,Furniture,UrbanCart,1678.0,998.0,In Stock
+21242,Slate Select 242,Electronics,Tablet,Apex,1293.0,779.0,In Stock
+21243,Classic Select 243,Home & Kitchen,Furniture,UrbanCart,1022.0,763.0,In Stock
+21244,Knowledge Select 1244,Books,Non-Fiction,Nova,2063.0,1751.0,In Stock
+21245,Work Select 245,Electronics,Laptop,TechPro,1176.0,877.0,In Stock
+21246,Active Smart 246,Electronics,Smartwatch,TechPro,740.0,626.0,In Stock
+21247,Regular Smart 247,Fashion,Jeans,UrbanCart,1126.0,814.0,In Stock
+21248,Straight Smart 248,Fashion,Jeans,HomeEase,2283.0,1450.0,In Stock
+21249,Scholar Smart 249,Books,Academic,Apex,689.0,559.0,In Stock
+21250,Living Smart 250,Home & Kitchen,Decor,Nova,1535.0,875.0,In Stock
+21251,Slim Max 001,Fashion,Jeans,PrimeLine,1292.0,750.0,Low Stock
+21252,Home Max 002,Home & Kitchen,Appliances,Apex,817.0,682.0,In Stock
+21253,Home Max 003,Home & Kitchen,Decor,FitMax,1107.0,825.0,Low Stock
+21254,Granite Max 004,Home & Kitchen,Cookware,UrbanCart,482.0,399.0,In Stock
+21255,Living Max 005,Home & Kitchen,Decor,PrimeLine,1438.0,848.0,
+21256,Power Ultra 006,Sports,Fitness,UrbanCart,552.0,431.0,In Stock
+21257,Explorer Ultra 007,Sports,Outdoor,PrimeLine,2689.0,1668.0,In Stock
+21258,Steel Ultra 008,Home & Kitchen,Cookware,Nova,1262.0,824.0,In Stock
+21259,Comfort Ultra 009,Fashion,Jeans,StyleHub,924.0,757.0,In Stock
+21260,Living Ultra 010,Home & Kitchen,Decor,Apex,2848.0,1918.0,In Stock
+21261,Insights Lite 011,Books,Non-Fiction,PrimeLine,685.0,515.0,In Stock
+21262,Pulse Lite 1262,Electronics,Smartwatch,FitMax,824.0,673.0,In Stock
+21263,Street Lite 013,Fashion,Shoes,PrimeLine,408.0,331.0,In Stock
+21264,Space Lite 014,Home & Kitchen,Storage,HomeEase,3137.0,1734.0,In Stock
+21265,Essential Lite 015,Fashion,Accessories,Nova,4525.0,2704.0,Low Stock
+21266,Study Premium 016,Books,Academic,UrbanCart,451.0,372.0,In Stock
+21267,Smooth Premium 017,Beauty,Haircare,FitMax,788.0,566.0,In Stock
+21268,Style Premium 018,Fashion,Accessories,UrbanCart,1402.0,973.0,In Stock
+21269,Strength Premium 019,Sports,Fitness,PrimeLine,958.0,546.0,In Stock
+21270,Velocity Premium 020,Sports,Cycling,Nova,1312.0,731.0,In Stock
+21271,Tab Everyday 021,Electronics,Tablet,TechPro,1241.0,1038.0,Low Stock
+21272,Elegant Everyday 022,Fashion,Dresses,UrbanCart,1746.0,1209.0,In Stock
+21273,Casual Everyday 023,Fashion,Dresses,FitMax,717.0,564.0,In Stock
+21274,Sport Everyday 024,Fashion,Shoes,PrimeLine,1518.0,935.0,In Stock
+21275,Classic Everyday 025,Fashion,Jeans,FitMax,648.0,402.0,In Stock
+21276,Power Series 026,Sports,Fitness,StyleHub,1025.0,736.0,In Stock
+21277,Ideas Series 027,Books,Non-Fiction,FitMax,433.0,352.0,Out of Stock
+21278,Tune Series 028,Electronics,Headphones,HomeEase,1030.0,656.0,In Stock
+21279,Knowledge Series 029,Books,Non-Fiction,TechPro,923.0,599.0,In Stock
+21280,Happy Series 030,Books,Children,PrimeLine,2473.0,1769.0,In Stock
+21281,Urban Essential 031,Fashion,Accessories,Nova,1289.0,724.0,In Stock
+21282,Regular Essential 1282,Fashion,Jeans,Apex,1450.0,962.0,In Stock
+21283,Air Essential 033,Electronics,Laptop,PrimeLine,1320.0,946.0,In Stock
+21284,Sport Essential 034,Fashion,Shoes,HomeEase,336.0,185.0,In Stock
+21285,Easy Essential 035,Home & Kitchen,Appliances,Nova,366.0,271.0,In Stock
+21286,Study Plus 036,Books,Academic,StyleHub,1089.0,616.0,In Stock
+21287,Max Plus 037,Electronics,Mobile,StyleHub,1605.0,1229.0,In Stock
+21288,Straight Plus 038,Fashion,Jeans,Nova,1150.0,909.0,In Stock
+21289,Comfort Plus 039,Fashion,Jeans,Nova,764.0,612.0,In Stock
+21290,World Plus 040,Books,Non-Fiction,FitMax,1146.0,862.0,Out of Stock
+21291,Trail Pro 041,Sports,Outdoor,Apex,1083.0,778.0,In Stock
+21292,Wonder Pro 042,Books,Children,Apex,2222.0,1427.0,In Stock
+21293,Kitchen Pro 043,Home & Kitchen,Appliances,Apex,2143.0,1452.0,Low Stock
+21294,Power Pro 044,Home & Kitchen,Appliances,HomeEase,935.0,539.0,In Stock
+21295,Clear Pro 045,Beauty,Skincare,Apex,1297.0,988.0,In Stock
+21296,Runner Prime 046,Fashion,Shoes,Apex,1603.0,894.0,In Stock
+21297,Pro Prime 047,Electronics,Laptop,PrimeLine,1765.0,1190.0,Low Stock
+21298,Summit Prime 048,Sports,Outdoor,TechPro,3921.0,2752.0,In Stock
+21299,Pad Prime 049,Electronics,Tablet,StyleHub,1315.0,980.0,In Stock
+21300,Easy Prime 050,Home & Kitchen,Appliances,Apex,2863.0,1869.0,Out of Stock
+21301,Little Classic 1301,Books,Children,UrbanCart,630.0,430.0,In Stock
+21302,PowerPlay Classic 052,Sports,Cricket,TechPro,885.0,643.0,In Stock
+21303,Essence Classic 053,Beauty,Fragrance,PrimeLine,334.0,276.0,In Stock
+21304,Prime Classic 054,Electronics,Mobile,TechPro,1478.0,1111.0,In Stock
+21305,Living Classic 055,Home & Kitchen,Decor,Apex,2040.0,1278.0,In Stock
+21306,Stack Advance 056,Home & Kitchen,Storage,TechPro,254.0,204.0,In Stock
+21307,Hydra Advance 057,Beauty,Skincare,StyleHub,1514.0,858.0,In Stock
+21308,Matte Advance 058,Beauty,Makeup,HomeEase,1984.0,1253.0,Low Stock
+21309,Comfort Advance 059,Fashion,Jeans,HomeEase,1912.0,1114.0,In Stock
+21310,Train Advance 060,Sports,Fitness,Nova,616.0,421.0,Low Stock
+21311,Ride Elite 061,Sports,Cycling,StyleHub,2214.0,1641.0,In Stock
+21312,PowerPlay Elite 062,Sports,Cricket,HomeEase,1348.0,956.0,In Stock
+21313,Fit Elite 063,Electronics,Smartwatch,HomeEase,1967.0,1561.0,In Stock
+21314,Luxe Elite 064,Beauty,Makeup,Apex,1234.0,889.0,In Stock
+21315,Classic Elite 065,Home & Kitchen,Cookware,TechPro,1716.0,1064.0,In Stock
+21316,Comfort Select 066,Home & Kitchen,Furniture,HomeEase,2755.0,1959.0,Low Stock
+21317,Learn Select 067,Books,Academic,TechPro,1173.0,904.0,In Stock
+21318,Street Select 068,Fashion,Shoes,Nova,1611.0,1129.0,In Stock
+21319,Cycle Select 069,Sports,Cycling,Nova,3018.0,2060.0,In Stock
+21320,Essential Select 070,Home & Kitchen,Furniture,PrimeLine,1228.0,870.0,In Stock
+21321,Insights Smart 071,Books,Non-Fiction,HomeEase,645.0,461.0,In Stock
+21322,Home Smart 072,Home & Kitchen,Appliances,PrimeLine,2079.0,1337.0,In Stock
+21323,Steel Smart 073,Home & Kitchen,Cookware,HomeEase,3404.0,2745.0,Low Stock
+21324,Accent Smart 074,Home & Kitchen,Decor,StyleHub,3096.0,1896.0,In Stock
+21325,Classic Smart 075,Home & Kitchen,Cookware,StyleHub,2132.0,1194.0,In Stock
+21326,Silk Max 076,Beauty,Haircare,HomeEase,292.0,226.0,In Stock
+21327,Slate Max 077,Electronics,Tablet,HomeEase,886.0,711.0,Low Stock
+21328,Home Max 078,Home & Kitchen,Decor,Nova,916.0,680.0,Low Stock
+21329,Adventure Max 079,Sports,Outdoor,Nova,1379.0,952.0,In Stock
+21330,Work Max 080,Electronics,Laptop,HomeEase,4013.0,3381.0,In Stock
+21331,Slim Ultra 081,Fashion,Jeans,FitMax,664.0,439.0,In Stock
+21332,Balance Ultra 082,Sports,Yoga,Apex,5753.0,3865.0,Low Stock
+21333,Street Ultra 083,Fashion,Shoes,TechPro,1045.0,760.0,Out of Stock
+21334,Beat Ultra 084,Electronics,Headphones,UrbanCart,814.0,553.0,In Stock
+21335,Note Ultra 085,Electronics,Tablet,Nova,2320.0,1662.0,In Stock
+21336,Little Lite 086,Books,Children,PrimeLine,2443.0,2052.0,In Stock
+21337,Sprint Lite 087,Sports,Cycling,PrimeLine,2044.0,1270.0,In Stock
+21338,Style Lite 088,Fashion,Accessories,FitMax,812.0,483.0,In Stock
+21339,Magic Lite 089,Books,Children,FitMax,1856.0,1257.0,In Stock
+21340,Wave Lite 090,Electronics,Headphones,StyleHub,684.0,480.0,In Stock
+21341,Tab Premium 091,Electronics,Tablet,Nova,798.0,610.0,In Stock
+21342,Ideas Premium 092,Books,Non-Fiction,StyleHub,1259.0,1053.0,In Stock
+21343,Flex Premium 093,Sports,Yoga,TechPro,786.0,595.0,In Stock
+21344,Bloom Premium 094,Beauty,Fragrance,Apex,2655.0,2247.0,In Stock
+21345,Comfort Premium 095,Fashion,Shirts,HomeEase,920.0,574.0,In Stock
+21346,Ride Everyday 096,Sports,Cycling,Nova,1161.0,711.0,In Stock
+21347,Mist Everyday 097,Beauty,Fragrance,PrimeLine,756.0,485.0,In Stock
+21348,Style Everyday 098,Fashion,Accessories,FitMax,2629.0,2067.0,Out of Stock
+21349,Grace Everyday 099,Fashion,Dresses,StyleHub,869.0,527.0,In Stock
+21350,Comfort Everyday 100,Fashion,Shirts,UrbanCart,2814.0,1713.0,In Stock
+21351,Silk Series 1351,Beauty,Haircare,Apex,2683.0,1807.0,In Stock
+21352,Hydra Series 102,Beauty,Skincare,TechPro,1002.0,647.0,In Stock
+21353,Flex Series 103,Sports,Yoga,Apex,1366.0,1016.0,In Stock
+21354,Comfort Series 104,Fashion,Jeans,StyleHub,984.0,804.0,In Stock
+21355,Easy Series 105,Home & Kitchen,Appliances,UrbanCart,1910.0,1130.0,In Stock
+21356,Velvet Essential 106,Beauty,Makeup,Apex,1180.0,843.0,In Stock
+21357,Mist Essential 107,Beauty,Fragrance,Apex,1021.0,589.0,Low Stock
+21358,Steel Essential 108,Home & Kitchen,Cookware,UrbanCart,1380.0,851.0,In Stock
+21359,Pad Essential 109,Electronics,Tablet,HomeEase,479.0,308.0,In Stock
+21360,Essential Essential 110,Home & Kitchen,Furniture,FitMax,1275.0,923.0,In Stock
+21361,Active Plus 1361,Electronics,Smartwatch,HomeEase,2043.0,1464.0,In Stock
+21362,Sound Plus 112,Electronics,Headphones,HomeEase,1465.0,1088.0,Out of Stock
+21363,Journey Plus 113,Books,Non-Fiction,UrbanCart,2486.0,1978.0,In Stock
+21364,Adventure Plus 114,Sports,Outdoor,StyleHub,1048.0,635.0,In Stock
+21365,Edge Plus 115,Electronics,Mobile,StyleHub,994.0,768.0,In Stock
+21366,Flare Pro 116,Fashion,Dresses,HomeEase,648.0,486.0,In Stock
+21367,Modern Pro 117,Home & Kitchen,Furniture,FitMax,1029.0,591.0,In Stock
+21368,Chronicles Pro 118,Books,Fiction,UrbanCart,4807.0,3141.0,In Stock
+21369,Classic Pro 119,Fashion,Shirts,PrimeLine,1602.0,894.0,Low Stock
+21370,Living Pro 120,Home & Kitchen,Decor,FitMax,915.0,528.0,In Stock
+21371,Silk Prime 121,Beauty,Haircare,PrimeLine,696.0,442.0,In Stock
+21372,Walk Prime 122,Fashion,Shoes,FitMax,474.0,295.0,Low Stock
+21373,Classic Prime 123,Home & Kitchen,Furniture,FitMax,781.0,640.0,Low Stock
+21374,Power Prime 124,Home & Kitchen,Appliances,StyleHub,2194.0,1795.0,In Stock
+21375,Wave Prime 125,Electronics,Headphones,UrbanCart,1015.0,734.0,In Stock
+21376,Striker Classic 126,Sports,Cricket,PrimeLine,719.0,554.0,Low Stock
+21377,Ideas Classic 127,Books,Non-Fiction,PrimeLine,772.0,656.0,In Stock
+21378,Summit Classic 128,Sports,Outdoor,TechPro,2043.0,1375.0,In Stock
+21379,Everyday Classic 129,Fashion,Accessories,HomeEase,1271.0,898.0,In Stock
+21380,Classic Classic 1380,Fashion,Jeans,UrbanCart,891.0,664.0,Low Stock
+21381,Tab Advance 131,Electronics,Tablet,Apex,1096.0,905.0,In Stock
+21382,Classic Advance 132,Fashion,Accessories,UrbanCart,5619.0,4434.0,In Stock
+21383,Fit Advance 133,Electronics,Smartwatch,FitMax,2959.0,1685.0,In Stock
+21384,Boundary Advance 134,Sports,Cricket,StyleHub,3479.0,2658.0,In Stock
+21385,Happy Advance 135,Books,Children,Nova,429.0,268.0,In Stock
+21386,Chef Elite 136,Home & Kitchen,Cookware,StyleHub,1214.0,761.0,In Stock
+21387,PowerPlay Elite 137,Sports,Cricket,Nova,881.0,629.0,In Stock
+21388,Matte Elite 138,Beauty,Makeup,TechPro,1907.0,1447.0,In Stock
+21389,Classic Elite 139,Fashion,Shirts,Apex,2667.0,1594.0,Out of Stock
+21390,Train Elite 140,Sports,Fitness,StyleHub,1656.0,1067.0,In Stock
+21391,Power Select 141,Sports,Fitness,FitMax,760.0,581.0,In Stock
+21392,Home Select 142,Home & Kitchen,Appliances,UrbanCart,872.0,519.0,In Stock
+21393,Champion Select 143,Sports,Cricket,HomeEase,2005.0,1614.0,In Stock
+21394,Shine Select 144,Beauty,Haircare,FitMax,2139.0,1469.0,In Stock
+21395,Classic Select 145,Home & Kitchen,Cookware,Apex,1468.0,1065.0,In Stock
+21396,Striker Smart 146,Sports,Cricket,HomeEase,1457.0,836.0,Low Stock
+21397,Mist Smart 147,Beauty,Fragrance,UrbanCart,1384.0,1158.0,In Stock
+21398,Neo Smart 148,Electronics,Mobile,HomeEase,1595.0,1312.0,In Stock
+21399,Track Smart 149,Electronics,Smartwatch,TechPro,2133.0,1295.0,In Stock
+21400,Essential Smart 150,Home & Kitchen,Furniture,HomeEase,2017.0,1511.0,Out of Stock
+21401,One Max 151,Electronics,Mobile,HomeEase,1360.0,1072.0,In Stock
+21402,Casual Max 152,Fashion,Shirts,HomeEase,1297.0,761.0,Low Stock
+21403,Formal Max 153,Fashion,Shirts,Nova,1266.0,916.0,In Stock
+21404,Boundary Max 154,Sports,Cricket,FitMax,807.0,650.0,In Stock
+21405,Easy Max 155,Home & Kitchen,Appliances,Apex,800.0,562.0,In Stock
+21406,Velvet Ultra 156,Beauty,Makeup,PrimeLine,1908.0,1578.0,In Stock
+21407,Hydra Ultra 157,Beauty,Skincare,TechPro,843.0,476.0,Low Stock
+21408,Casual Ultra 158,Fashion,Dresses,FitMax,2273.0,1877.0,In Stock
+21409,Scholar Ultra 159,Books,Academic,HomeEase,1295.0,1092.0,In Stock
+21410,Classic Ultra 160,Home & Kitchen,Cookware,Apex,2282.0,1362.0,In Stock
+21411,Flare Lite 161,Fashion,Dresses,UrbanCart,2026.0,1376.0,In Stock
+21412,Max Lite 162,Electronics,Mobile,Apex,2317.0,1706.0,In Stock
+21413,Straight Lite 163,Fashion,Jeans,TechPro,983.0,804.0,In Stock
+21414,Track Lite 164,Electronics,Smartwatch,HomeEase,1747.0,1044.0,Low Stock
+21415,Happy Lite 165,Books,Children,HomeEase,2164.0,1407.0,In Stock
+21416,Smart Premium 166,Home & Kitchen,Appliances,FitMax,489.0,386.0,In Stock
+21417,PowerPlay Premium 167,Sports,Cricket,HomeEase,4048.0,2724.0,In Stock
+21418,View Premium 168,Electronics,Tablet,StyleHub,5842.0,4273.0,In Stock
+21419,Urban Premium 169,Home & Kitchen,Furniture,StyleHub,2479.0,1780.0,In Stock
+21420,Work Premium 170,Electronics,Laptop,UrbanCart,2262.0,1904.0,In Stock
+21421,Slim Everyday 171,Fashion,Jeans,UrbanCart,1964.0,1164.0,In Stock
+21422,Hydra Everyday 172,Beauty,Skincare,Nova,1085.0,905.0,In Stock
+21423,Formal Everyday 173,Fashion,Shirts,UrbanCart,1247.0,897.0,Low Stock
+21424,Shine Everyday 174,Beauty,Haircare,TechPro,2507.0,2059.0,In Stock
+21425,Train Everyday 175,Sports,Fitness,HomeEase,712.0,417.0,In Stock
+21426,Active Series 176,Electronics,Smartwatch,StyleHub,672.0,499.0,Low Stock
+21427,Regular Series 177,Fashion,Jeans,TechPro,1035.0,830.0,Low Stock
+21428,Care Series 178,Beauty,Haircare,StyleHub,2052.0,1613.0,Low Stock
+21429,Shine Series 179,Beauty,Haircare,TechPro,763.0,422.0,In Stock
+21430,Edge Series 180,Electronics,Mobile,FitMax,1157.0,793.0,In Stock
+21431,Smart Essential 181,Home & Kitchen,Appliances,FitMax,1250.0,731.0,In Stock
+21432,Casual Essential 182,Fashion,Shirts,PrimeLine,694.0,414.0,In Stock
+21433,Care Essential 183,Beauty,Haircare,FitMax,274.0,209.0,In Stock
+21434,Scholar Essential 184,Books,Academic,FitMax,687.0,575.0,In Stock
+21435,Essential Essential 185,Fashion,Accessories,UrbanCart,1587.0,1175.0,In Stock
+21436,Silk Plus 186,Beauty,Haircare,Apex,1837.0,1067.0,Low Stock
+21437,Modern Plus 187,Home & Kitchen,Furniture,Nova,1847.0,1151.0,In Stock
+21438,Fit Plus 188,Electronics,Smartwatch,StyleHub,1991.0,1321.0,Low Stock
+21439,Everyday Plus 189,Fashion,Accessories,PrimeLine,891.0,524.0,Low Stock
+21440,Classic Plus 190,Fashion,Shoes,TechPro,776.0,624.0,In Stock
+21441,Tab Pro 191,Electronics,Tablet,UrbanCart,1709.0,1040.0,Low Stock
+21442,Explorer Pro 192,Sports,Outdoor,PrimeLine,1167.0,687.0,In Stock
+21443,Organize Pro 193,Home & Kitchen,Storage,PrimeLine,2415.0,1854.0,In Stock
+21444,Urban Pro 194,Home & Kitchen,Furniture,TechPro,1716.0,1009.0,Out of Stock
+21445,Classic Pro 195,Fashion,Shoes,Apex,3086.0,2077.0,In stock
+21446,Little Prime 196,Books,Children,FitMax,990.0,698.0,In Stock
+21447,Smooth Prime 197,Beauty,Haircare,PrimeLine,2681.0,1539.0,Out of Stock
+21448,Formal Prime 198,Fashion,Shirts,Apex,5027.0,3603.0,In Stock
+21449,Calm Prime 199,Sports,Yoga,Nova,1387.0,963.0,In Stock
+21450,Edge Prime 200,Electronics,Mobile,Nova,1853.0,1391.0,In Stock
+21451,Oxford Classic 201,Fashion,Shirts,UrbanCart,732.0,451.0,In Stock
+21452,Mist Classic 202,Beauty,Fragrance,HomeEase,2395.0,1573.0,In Stock
+21453,Street Classic 203,Fashion,Shoes,FitMax,2790.0,2087.0,In Stock
+21454,Strength Classic 204,Sports,Fitness,StyleHub,971.0,544.0,Low Stock
+21455,Velocity Classic 205,Sports,Cycling,UrbanCart,1961.0,1147.0,In Stock
+21456,Runner Advance 206,Fashion,Shoes,HomeEase,1607.0,1021.0,In Stock
+21457,Learn Advance 207,Books,Academic,UrbanCart,1727.0,1005.0,In Stock
+21458,Journey Advance 208,Books,Non-Fiction,Apex,2271.0,1276.0,In Stock
+21459,Comfort Advance 209,Fashion,Jeans,TechPro,1877.0,1588.0,In Stock
+21460,Guide Advance 210,Books,Academic,HomeEase,1224.0,841.0,In Stock
+21461,Aura Elite 211,Beauty,Fragrance,FitMax,2302.0,1635.0,In Stock
+21462,Sound Elite 212,Electronics,Headphones,Nova,2759.0,1728.0,In Stock
+21463,Fit Elite 213,Electronics,Smartwatch,HomeEase,934.0,516.0,In Stock
+21464,Pad Elite 214,Electronics,Tablet,UrbanCart,1338.0,1037.0,In Stock
+21465,Living Elite 215,Home & Kitchen,Decor,UrbanCart,424.0,325.0,In Stock
+21466,Stack Select 216,Home & Kitchen,Storage,Nova,1957.0,1647.0,In Stock
+21467,Pro Select 217,Electronics,Laptop,Apex,2966.0,1650.0,In Stock
+21468,Matte Select 218,Beauty,Makeup,PrimeLine,1133.0,670.0,In Stock
+21469,Everyday Select 219,Fashion,Accessories,Apex,1461.0,1116.0,Low Stock
+21470,Clear Select 220,Beauty,Skincare,UrbanCart,1161.0,754.0,In Stock
+21471,Velvet Smart 221,Beauty,Makeup,TechPro,1044.0,594.0,In stock
+21472,Store Smart 222,Home & Kitchen,Storage,Nova,1558.0,998.0,In Stock
+21473,Care Smart 223,Beauty,Haircare,StyleHub,805.0,464.0,In Stock
+21474,Magic Smart 224,Books,Children,UrbanCart,1149.0,921.0,In Stock
+21475,Easy Smart 225,Home & Kitchen,Appliances,FitMax,744.0,605.0,In Stock
+21476,Wall Max 226,Home & Kitchen,Decor,HomeEase,1964.0,1455.0,In Stock
+21477,Glow Max 227,Beauty,Makeup,FitMax,1565.0,1042.0,In Stock
+21478,Active Max 228,Sports,Fitness,UrbanCart,1012.0,790.0,In Stock
+21479,Bloom Max 229,Beauty,Fragrance,Apex,1372.0,1015.0,Low Stock
+21480,Flow Max 230,Sports,Yoga,Apex,1160.0,914.0,In Stock
+21481,Book Ultra 231,Electronics,Laptop,Apex,2817.0,1981.0,In Stock
+21482,Pulse Ultra 232,Electronics,Smartwatch,TechPro,1006.0,843.0,Low Stock
+21483,Straight Ultra 1483,Fashion,Jeans,TechPro,2024.0,1289.0,In Stock
+21484,Accent Ultra 234,Home & Kitchen,Decor,FitMax,847.0,619.0,In Stock
+21485,Work Ultra 235,Electronics,Laptop,StyleHub,2274.0,1802.0,In Stock
+21486,Comfort Lite 236,Home & Kitchen,Furniture,FitMax,2629.0,2151.0,Low Stock
+21487,Kitchen Lite 237,Home & Kitchen,Cookware,UrbanCart,2711.0,2261.0,In Stock
+21488,Fun Lite 238,Books,Children,PrimeLine,3485.0,2330.0,Low Stock
+21489,Cycle Lite 239,Sports,Cycling,StyleHub,1620.0,1231.0,In Stock
+21490,Everyday Lite 240,Fashion,Dresses,HomeEase,2995.0,1908.0,In Stock
+21491,Insights Premium 241,Books,Non-Fiction,PrimeLine,3850.0,2868.0,In Stock
+21492,Wonder Premium 242,Books,Children,FitMax,646.0,391.0,In Stock
+21493,Classic Premium 243,Home & Kitchen,Furniture,Apex,905.0,612.0,In Stock
+21494,Grace Premium 244,Fashion,Dresses,HomeEase,507.0,419.0,In Stock
+21495,Guide Premium 245,Books,Academic,StyleHub,2670.0,2118.0,In Stock
+21496,Urban Everyday 246,Fashion,Accessories,TechPro,502.0,351.0,In Stock
+21497,Classic Everyday 247,Fashion,Accessories,TechPro,421.0,250.0,In Stock
+21498,Journey Everyday 248,Books,Non-Fiction,Nova,656.0,439.0,In Stock
+21499,Radiance Everyday 249,Beauty,Skincare,TechPro,433.0,256.0,In Stock
+21500,Comfort Everyday 250,Fashion,Shirts,UrbanCart,1599.0,912.0,In Stock
