@@ -1,0 +1,101 @@
+location_id,city,state,country,region
+1,Mumbai,Maharashtra,India,West
+2,Patna,Bihar,India,East
+3,Indore,Madhya Pradesh,India,Central
+4,Lucknow,Uttar Pradesh,India,North
+5,Lucknow,Uttar Pradesh,India,North
+6,Surat,Gujarat,India,West
+7,Mumbai,Maharashtra,India,West
+8,Indore,Madhya Pradesh,India,Central
+9,Chennai,Tamil Nadu,India,South
+10,Mumbai,Maharashtra,India,West
+11,Noida,Uttar Pradesh,India,North
+12,Kanpur,Uttar Pradesh,India,North
+13,Bhopal,Madhya Pradesh,India,Central
+14,Patna,Bihar,India,East
+15,Bhopal,Madhya Pradesh,India,Central
+16,Patna,Bihar,India,East
+17,Noida,Uttar Pradesh,India,North
+18,Bengaluru,Karnataka,India,South
+19,Kochi,Kerala,India,South
+20,Ahmedabad,Gujarat,India,West
+21,Noida,Uttar Pradesh,India,North
+22,Jaipur,Rajasthan,India,North
+23,Hyderabad,Telangana,India,South
+24,Nagpur,Maharashtra,India,Central
+25,Patna,Bihar,India,East
+26,Chandigarh,Chandigarh,India,North
+27,Lucknow,Uttar Pradesh,India,North
+28,Kochi,Kerala,India,South
+29,Noida,Uttar Pradesh,India,North
+30,Lucknow,Uttar Pradesh,India,North
+31,Ahmedabad,Gujarat,India,West
+32,Chennai,Tamil Nadu,India,South
+33,Mumbai,Maharashtra,India,West
+34,Gurugram,Haryana,India,North
+35,Surat,Gujarat,India,West
+36,Mumbai,Maharashtra,India,West
+37,Surat,Gujarat,India,West
+38,Kochi,Kerala,India,South
+39,Kolkata,West Bengal,India,East
+40,Chandigarh,Chandigarh,India,North
+41,Hyderabad,Telangana,India,South
+42,Patna,Bihar,India,East
+43,Bhopal,Madhya Pradesh,India,Central
+44,Jaipur,Rajasthan,India,North
+45,Mumbai,Maharashtra,India,West
+46,Kanpur,Uttar Pradesh,India,North
+47,Lucknow,Uttar Pradesh,India,North
+48,Surat,Gujarat,India,West
+49,Indore,Madhya Pradesh,India,Central
+50,Patna,Bihar,India,East
+51,Patna,Bihar,India,East
+52,Hyderabad,Telangana,India,South
+53,Jaipur,Rajasthan,India,North
+54,Ahmedabad,Gujarat,India,West
+55,Ahmedabad,Gujarat,India,West
+56,Delhi,Delhi,India,North
+57,Noida,Uttar Pradesh,India,North
+58,Hyderabad,Telangana,India,South
+59,Bhopal,Madhya Pradesh,India,Central
+60,Indore,Madhya Pradesh,India,Central
+61,Nagpur,Maharashtra,India,Central
+62,Bhopal,Madhya Pradesh,India,Central
+63,Jaipur,Rajasthan,India,North
+64,Kanpur,Uttar Pradesh,India,North
+65,Lucknow,Uttar Pradesh,India,North
+66,Pune,Maharashtra,India,West
+67,Nagpur,Maharashtra,India,Central
+68,Jaipur,Rajasthan,India,North
+69,Mumbai,Maharashtra,India,West
+70,Ahmedabad,Gujarat,India,West
+71,Patna,Bihar,India,East
+72,Hyderabad,Telangana,India,South
+73,Ahmedabad,Gujarat,India,West
+74,Bengaluru,Karnataka,India,South
+75,Indore,Madhya Pradesh,India,Central
+76,Ahmedabad,Gujarat,India,West
+77,Pune,Maharashtra,India,West
+78,Chennai,Tamil Nadu,India,South
+79,Gurugram,Haryana,India,North
+80,Indore,Madhya Pradesh,India,Central
+81,Nagpur,Maharashtra,India,Central
+82,Lucknow,Uttar Pradesh,India,North
+83,Hyderabad,Telangana,India,South
+84,Kochi,Kerala,India,South
+85,Chandigarh,Chandigarh,India,North
+86,Bhopal,Madhya Pradesh,India,Central
+87,Mumbai,Maharashtra,India,West
+88,Pune,Maharashtra,India,West
+89,Patna,Bihar,India,East
+90,Kochi,Kerala,India,South
+91,Lucknow,Uttar Pradesh,India,North
+92,Kochi,Kerala,India,South
+93,Kochi,Kerala,India,South
+94,Jaipur,Rajasthan,India,North
+95,Surat,Gujarat,India,West
+96,Kolkata,West Bengal,India,East
+97,Chennai,Tamil Nadu,India,South
+98,Indore,Madhya Pradesh,India,Central
+99,Chandigarh,Chandigarh,India,North
+100,Bengaluru,Karnataka,India,South
